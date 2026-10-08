@@ -1,0 +1,23 @@
+{
+  "pipeline_version": "1.0",
+  "generated_data_seed": 1042026,
+  "source_retrieved": "2026-10-08",
+  "source_url": "https://www.cfsrportal.acf.hhs.gov/document/download/gLMYON",
+  "cutoff": "2025-12-31",
+  "files": {
+    "data/raw/fictional_agency_submissions.csv": "7826ed2d5c0254d4d8db6103e2f1f7ab8ec836886126f04a36e8c4d04b158846",
+    "data/raw/episodes.csv": "bf0390130ae75ae7a5925d31c5624f49324d096c561d1647f0b62a8a1a066b6e",
+    "data/raw/children.csv": "30693140dcff2fc02b5bf11ea7a4db3a1733a9dd28a3b9ff14c018150450a651",
+    "data/raw/visits.csv": "2f2032e667acffc1d00e3ee93bab26b78db6db746e20539c02dff6394964e49c",
+    "data/source/cfsr-march-2026.pdf": "c1a305ab32aad088e63c7b835717776a6bca82ed3873b5d336993a68e8027a58",
+    "data/source/cfsr-march-2026.txt": "cdfde778023632fc3d02833520059e25411c3e4118b8e33ead11e96e1f5ec616"
+  },
+  "checks": {
+    "public_rows": 28,
+    "public_arithmetic_pass": 28,
+    "public_classification_pass": 28,
+    "synthetic_child_months": 17617,
+    "sql_python_exact_agreement": true,
+    "agency_review_rows": 5
+  }
+}

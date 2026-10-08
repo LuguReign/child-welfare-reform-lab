@@ -1,0 +1,1766 @@
+                    CFSR Round 4 Statewide Data Indicators Workbook
+Issued March 2026
+This workbook provides detailed, state-by-state performance on the Child and Family Services
+Reviews (CFSR) Round 4 statewide data indicators and comparisons to National Performance for the
+most recent 12-month reporting period included in the February 2026 data profiles.
+
+
+Table of Contents
+Summary—CFSR Round 4 Statewide Data Indicators ....................................................... 2
+     National Performance ................................................................................................................. 2
+     Data Periods Used to Set National Performance..................................................................... 2
+     Data Quality ................................................................................................................................. 2
+Resources .............................................................................................................................. 3
+Visualization of State-by-State Risk-Standardized Performance ...................................... 7
+State-by-State Performance on Statewide Data Indicators ................................................ 8
+     Maltreatment in foster care......................................................................................................... 8
+     Recurrence of maltreatment..................................................................................................... 10
+     Permanency in 12 months for children entering foster care ................................................. 12
+     Permanency in 12 months for children in foster care 12 to 23 months................................ 14
+     Permanency in 12 months for children in foster care 24 months or more ........................... 16
+     Reentry to foster care in 12 months ........................................................................................ 18
+     Placement stability .................................................................................................................... 20
+Data Quality Elements ......................................................................................................... 22
+     AFCARS Data Quality Checks, by Data Period ..................................................................... 24
+     NCANDS Data Quality, by Data Period .................................................................................. 46
+
+
+
+
+CFSR Round 4 Statewide Data Indicators Workbook, March 2026                                                                                        1
+Summary—CFSR Round 4 Statewide Data Indicators
+All analyses are based on Adoption and Foster Care Analysis and Reporting System (AFCARS) and
+National Child Abuse and Neglect Data System (NCANDS) submissions as of January 10, 2026.
+National Performance
+ Indicator                                                                               National Performance
+ Maltreatment in foster care                                                           9.07 victimizations*
+ Recurrence of maltreatment                                                            9.7%
+ Permanency in 12 months for children entering foster care                             35.2%
+ Permanency in 12 months for children in care 12−23 months                             43.8%
+ Permanency in 12 months for children in care 24 months or more                        37.3%
+ Reentry to foster care in 12 months                                                   5.6%
+ Placement stability                                                                   4.48 moves**
+ * per 100,000 days in foster care
+ ** per 1,000 days in foster care
+
+Data Periods Used to Set National Performance
+ Indicator                                                                             Data Periods Used*
+ Maltreatment in foster care                                                        19A, 19B, FY19, FY20
+ Recurrence of maltreatment                                                         FY19, FY20
+ Permanency in 12 months for children entering foster care                          19B, 20A, 20B, 21A, 21B
+ Permanency in 12 months for children in care 12−23 months                          21A, 21B
+ Permanency in 12 months for children in care 24 months or more                     21A, 21B
+ Reentry to foster care in 12 months                                                20A, 20B, 21A, 21B
+ Placement stability                                                                21A, 21B
+* FY periods (e.g., FY24) refer to NCANDS data. All others refer to AFCARS data.
+* NCANDS data are submitted for Federal Fiscal Years, October 1 through September 30.
+* “A” refers to the 6-month reporting period October 1 through March 31. Two-digit year refers to the calendar year in which
+  the period ends.
+* “B” refers to the 6-month reporting period April 1 through September 30. Two-digit year refers to the calendar year in which
+  the period ends.
+
+Data Quality
+                                               States excluded                            States excluded from
+ Indicator                                     from National                              most recent Data
+                                               Performance*                               Indicators Performance*
+ Maltreatment in foster care                   No states                                  AR, PA, PR
+ Recurrence of maltreatment                    NC, PR                                     No states
+ Permanency in 12 months for children entering MD                                         PA, PR, WA, WV, WY
+ foster care
+ Permanency in 12 months for children in care  No states                                  PA, PR, WA, WY
+ 12−23 months
+ Permanency in 12 months for children in care  No states                                  PA, PR, WA, WY
+ 24 months or more
+ Reentry to foster care in 12 months           MD                                         DC, ME, NC, PA, PR, WA,
+                                                                                          WV, WY
+ Placement stability                                          AZ, CO                      PA, PR, WA, WY
+* States are excluded due to incomplete data or exceeding data quality limits.
+
+CFSR Round 4 Statewide Data Indicators Workbook, March 2026                                                                  2
+Resources
+Glossary
+National Performance             National performance is how the nation as a whole performed on a given data indicator. The national
+                                 performance was calculated and fixed prior to the start of the CFSR Round 4 using data states
+                                 submitted, covering 10/01/2018 through 09/30/2021. Data periods used to calculate performance differ
+                                 by indicator. The national performance is used as a reference point to determine if a state performed
+                                 statistically better, worse, or no different from the nation after taking into account some of the factors
+                                 over which states have little control.
+
+                                 For example, the national performance for permanency in 12 months for children entering foster care is
+                                 35.2%. This means that for all children in the nation who entered foster care during the fixed 12-month
+                                 period, 35.2% of those children achieved permanency within 12 months of entering foster care.
+
+Observed Performance             Observed performance describes how a state performed on a given indicator, without any adjustments.
+
+                                 For example, in State A, 1,200 children entered foster care in a 12-month period, and of those children,
+                                 405 achieved permanency within 12 months of entering foster care. State A’s observed performance is
+                                 33.8% (405 divided by 1,200 = 33.8%). The CFSR Statewide Data Indicator Series and Data Dictionary
+                                 provide information on how each indicator is calculated.
+
+Risk-Standardized                RSP is used to assess state performance on the CFSR statewide data indicators compared to national
+Performance (RSP)                performance. RSP accounts for some of the factors that influence performance on the indicators over
+                                 which states have little control. One example is the ages of children in care; children of different ages
+                                 have different likelihoods of experiencing an outcome (e.g., achieving permanency), regardless of the
+                                 quality of care a state provides. Accounting for such factors allows for a fairer comparison of each
+                                 state’s performance relative to the national performance.
+
+
+
+
+CFSR Round 4 Statewide Data Indicators Workbook, March 2026                                                                                   3
+Glossary
+Risk-Standardized                To determine whether a state’s performance is statistically better, worse, or no different from national
+Performance (RSP) Interval       performance, we calculate a 95% confidence interval estimate for the state’s RSP. The interval accounts
+                                 for the amount of uncertainty associated with the RSP value. In other words, we are 95% confident that
+                                 the value of the RSP is between the lower and upper limit of the interval. The RSP interval is what we
+                                 use to compare state performance to national performance. If the interval overlaps the national
+                                 performance, the state’s performance is statistically no different from the national performance. If the
+                                 interval is above or below national performance, it is statistically different from national performance.
+                                 Whether higher or lower performance is desirable depends on the desired direction of performance for
+                                 the indicator.
+
+
+Useful Links
+CFSR Statewide Data              https://ncwcia.childwelfare.gov/s/statewide-data-indicators-page
+Indicator Series
+
+
+
+Data Dictionary                  https://www.cfsrportal.acf.hhs.gov/resources/round-4-resources/cfsr-round-4-statewide-data-
+                                 indicators/cfsr-round-4-statewide-data
+
+CFSR Round 4 Statewide           https://www.cfsrportal.acf.hhs.gov/resources/round-4-resources/cfsr-round-4-statewide-data-indicators
+Data Indicator
+Information on the CFSR
+Information Portal
+
+
+
+
+CFSR Round 4 Statewide Data Indicators Workbook, March 2026                                                                              4
+Frequently Asked Questions
+When should RSP be used and      RSP should only be used to compare a state’s performance to national performance. It also
+when should Observed Performance allows a better way to compare across state performance. It helps identify areas of strengths
+be used?                         and improvement needs on the CFSR safety and permanency data indicators relative to national
+                                 performance.
+
+                                        A state’s observed performance is used to determine how the state performs based on its actual
+                                        child population, to identify how the state performs on an indicator over time, and how
+                                        performance on one indicator (e.g., permanency in 12 months) relates to another indicator (e.g.,
+                                        reentry to foster care). Observed performance data also helps identify areas of strength and
+                                        improvement needs on the CFSR safety and permanency data indicators, and is what’s used to
+                                        produce supplemental context data to help understand state performance information included
+                                        in CFSR data profiles.
+
+Can I compare my state’s RSP to         A state’s RSP cannot be compared to its observed performance. RSP takes into account some
+my state’s observed performance?        of the factors over which a state has little control and calculates performance relative to national
+                                        performance. RSP has no meaning relative to the state’s observed performance.
+
+                                        In our example, State A has an observed performance of 33.8%. State A has an unusually large
+                                        proportion of younger children in foster care, so we account for that along with other factors
+                                        when making adjustments to calculate the state’s RSP of 42.2%. When State A’s RSP interval of
+                                        41.1% to 42.9% is compared to national performance of 35.2%, State A performed better than
+                                        the nation.
+
+                                        On the other hand, let’s say that State A has an unusually large proportion of older children in
+                                        care instead. Its observed performance is still 33.8%. However, we expect more children who
+                                        enter foster care in 12 months in State A to achieve permanency than if State A’s case mix had
+                                        more younger children. As a result, State A’s performance is adjusted to calculate an RSP of
+                                        30.1% and an RSP interval of 28.9% to 30.7%. When that interval is compared to national
+                                        performance of 35.2%, State A performed worse than the nation.
+
+                                        In both scenarios, the observed performance for State A was the same. The RSP changed
+                                        depending on the proportion of older or younger children in State A’s foster care population.
+
+
+
+
+CFSR Round 4 Statewide Data Indicators Workbook, March 2026                                                                                    5
+Frequently Asked Questions
+Can I compare my state’s                A state’s observed performance should not be compared to national performance. The observed
+observed performance to the             performance does not take into account some of the factors over which states have little control.
+national performance?                   The goal of RSP is to provide states with a fairer way of comparing performance to national
+                                        performance.
+
+                                        For example, State A’s observed performance of 33.8% does not account for the high proportion
+                                        of younger children in its population, so comparing it to national performance of 35.2% would not
+                                        be a fair comparison. Comparing the two would make it appear State A’s performance is worse
+                                        than it is, based on State A having a different case mix than the nation.
+
+
+
+
+CFSR Round 4 Statewide Data Indicators Workbook, March 2026                                                                             6
+Visualization of State-by-State Risk-Standardized Performance
+
+
+
+
+CFSR Round 4 Statewide Data Indicators Workbook, March 2026     7
+State-by-State Performance on Statewide Data Indicators
+
+Maltreatment in foster care
+Description: Measured as the rate of abuse or neglect per 100,000 days in foster care in a 12-month period that children experienced while
+under the state’s placement and care responsibility
+
+12-month period: 23A23B, FY 2023
+Data used: 23A−23B, FY 2023−2024
+       *=Observed Performance (OP)
+       †=Risk-Standardized Performance (RSP)
+       ‡=RSP Relative to National Performance (NP)
+       DQ=Excluded due to data quality
+                                                                                                                          Better/Worse/
+                                                              Lower RSP                   Upper RSP                        No Different
+     State     Denominator*    Numerator*        OP*                          RSP †
+                                                                                                            NP ‡
+                                                               Interval†                   Interval†                      From National
+                                                                                                                          Performance‡
+AK                   922,646            131         14.20           15.49         18.37          21.79             9.07           Worse
+AL                 1,910,507             96          5.02            5.59          6.80           8.29             9.07            Better
+AR                       DQ             DQ            DQ              DQ            DQ             DQ               DQ                DQ
+AZ                 3,797,695            200          5.27            6.08          6.98           8.01             9.07            Better
+CA                14,276,138            957          6.70            8.41          8.96           9.54             9.07      No different
+CO                 1,278,268            113          8.84            9.72         11.68          14.02             9.07           Worse
+CT                   932,643             57          6.11            6.39          8.24          10.63             9.07      No different
+DC                   150,777              1          0.66            1.26          2.94           6.84             9.07            Better
+DE                   207,740              9          4.33            3.56          6.23          10.91             9.07      No different
+FL                 7,493,307            545          7.27            8.98          9.76          10.61             9.07      No different
+GA                 3,860,496            123          3.19            3.57          4.25           5.06             9.07            Better
+HI                   383,415             19          4.96            4.48          6.82          10.37             9.07      No different
+IA                 1,424,199            279         19.59           22.98         25.84          29.05             9.07           Worse
+ID                   537,827             35          6.51            6.18          8.52          11.73             9.07      No different
+IL                 6,705,894          1,050         15.66           19.61         20.83          22.13             9.07           Worse
+IN                 3,732,279            279          7.48            8.96         10.07          11.32             9.07      No different
+KS                 2,342,025            112          4.78            5.16          6.20           7.44             9.07            Better
+KY                 2,757,652            492         17.84           20.95         22.89          25.00             9.07           Worse
+LA                 1,439,411             56          3.89            4.21          5.43           7.00             9.07            Better
+
+
+CFSR Round 4 Statewide Data Indicators Workbook, March 2026                                                                                 8
+                                                                                                                Better/Worse/
+                                                              Lower RSP               Upper RSP                  No Different
+     State     Denominator*    Numerator*        OP*                        RSP
+                                                                              †
+                                                                                                    NP
+                                                                                                     ‡
+                                                               Interval†               Interval†                From National
+                                                                                                                Performance‡
+MA                 3,141,296           721          22.95           27.53     29.62         31.86        9.07           Worse
+MD                 1,185,067           124          10.46           11.51     13.71         16.33        9.07           Worse
+ME                   847,828            49           5.78            6.00      7.88         10.35        9.07      No different
+MI                 3,165,984           462          14.59           17.65     19.33         21.18        9.07           Worse
+MN                 2,055,276           168           8.17            9.20     10.69         12.42        9.07           Worse
+MO                 4,374,473           209           4.78            5.57      6.37          7.29        9.07            Better
+MS                 1,244,232           239          19.21           22.02     25.00         28.38        9.07           Worse
+MT                   901,686            92          10.20           10.95     13.42         16.43        9.07           Worse
+NC                 3,644,873           354           9.71           11.32     12.56         13.93        9.07           Worse
+ND                   477,654             7           1.47            1.52      2.70          4.79        9.07            Better
+NE                 1,272,452            52           4.09            4.25      5.53          7.20        9.07            Better
+NH                   394,645            13           3.29            2.94      4.74          7.66        9.07            Better
+NJ                 1,013,017            31           3.06            3.15      4.39          6.12        9.07            Better
+NM                   626,882            64          10.21           10.37     13.22         16.85        9.07           Worse
+NV                 1,432,474           103           7.19            8.07      9.76         11.82        9.07      No different
+NY                 4,911,388           769          15.66           19.22     20.63         22.14        9.07           Worse
+OH                 5,253,367           487           9.27           11.19     12.23         13.37        9.07           Worse
+OK                 2,473,515           224           9.06           10.84     12.35         14.07        9.07           Worse
+OR                 1,568,740           290          18.49           21.66     24.31         27.27        9.07           Worse
+PA                       DQ            DQ             DQ              DQ        DQ            DQ          DQ                DQ
+PR                       DQ            DQ             DQ              DQ        DQ            DQ          DQ                DQ
+RI                   580,379            79          13.61           14.01     17.45         21.73        9.07           Worse
+SC                 1,333,534           148          11.10           12.10     14.21         16.68        9.07           Worse
+SD                   580,590            33           5.68            5.49      7.62         10.59        9.07      No different
+TN                 3,147,335           218           6.93            7.88      9.00         10.27        9.07      No different
+TX                 6,842,787           827          12.09           15.26     16.34         17.49        9.07           Worse
+UT                   665,728           111          16.67           17.77     21.40         25.77        9.07           Worse
+VA                 1,484,876            62           4.18            4.30      5.48          6.98        9.07            Better
+VT                   367,423            17           4.63            4.08      6.32          9.79        9.07      No different
+WA                 2,486,812           195           7.84            9.33     10.73         12.33        9.07           Worse
+WI                 2,293,152            64           2.79            3.02      3.82          4.85        9.07            Better
+WV                 2,359,943            84           3.56            3.81      4.70          5.79        9.07            Better
+WY                   274,105            15           5.47            4.62      7.37         11.75        9.07      No different
+CFSR Round 4 Statewide Data Indicators Workbook, March 2026                                                                       9
+Recurrence of maltreatment
+Description: Measured as the percent of children who were the subject of a substantiated or indicated report of maltreatment in a 12-month
+period and who experienced subsequent maltreatment within 12 months of the initial victimization
+
+12-month period: FY 2023−2024
+Data used: FY 2023−2024
+       *=Observed Performance (OP)
+       †=Risk-Standardized Performance (RSP)
+       ‡=RSP Relative to National Performance (NP)
+
+                                                                                                                        Better/Worse/
+     State     Denominator*    Numerator*        OP*          Lower RSP       RSP †       Upper RSP         NP ‡         No Different
+                                                               Interval†                   Interval†                    From National
+                                                                                                                        Performance‡
+AK                     2,392            314         13.1%          15.5%         17.2%          19.1%            9.7%          Worse
+AL                    11,062            480          4.3%           5.4%          5.8%           6.4%            9.7%           Better
+AR                     7,339            375          5.1%           6.3%          7.0%           7.7%            9.7%           Better
+AZ                    10,969          1,033          9.4%          11.8%         12.5%          13.2%            9.7%          Worse
+CA                    46,336          3,031          6.5%           8.5%          8.8%           9.1%            9.7%           Better
+CO                     9,663            929          9.6%          12.0%         12.7%          13.5%            9.7%          Worse
+CT                     5,269            422          8.0%           9.8%         10.7%          11.7%            9.7%          Worse
+DC                     1,224             89          7.3%           7.9%          9.6%          11.7%            9.7%     No different
+DE                       860             15          1.7%           2.0%          3.0%           4.5%            9.7%           Better
+FL                    21,960          1,310          6.0%           7.5%          7.9%           8.4%            9.7%           Better
+GA                    11,121            563          5.1%           6.2%          6.7%           7.2%            9.7%           Better
+HI                       777             52          6.7%           7.0%          9.0%          11.5%            9.7%     No different
+IA                    10,711          1,560         14.6%          18.4%         19.3%          20.2%            9.7%          Worse
+ID                     2,037            101          5.0%           5.6%          6.8%           8.2%            9.7%           Better
+IL                    31,762          4,519         14.2%          18.2%         18.7%          19.2%            9.7%          Worse
+IN                    18,444          1,527          8.3%          10.6%         11.1%          11.7%            9.7%          Worse
+KS                     1,910             87          4.6%           5.0%          6.2%           7.5%            9.7%           Better
+KY                    14,630          2,074         14.2%          18.0%         18.8%          19.5%            9.7%          Worse
+LA                     9,005            621          6.9%           8.6%          9.2%          10.0%            9.7%     No different
+MA                    21,773          3,321         15.3%          19.8%         20.4%          21.1%            9.7%          Worse
+MD                     6,015            548          9.1%          11.3%         12.2%          13.2%            9.7%          Worse
+
+CFSR Round 4 Statewide Data Indicators Workbook, March 2026                                                                              10
+                                                                                                           Better/Worse/
+     State     Denominator*    Numerator*        OP*          Lower RSP    RSP†      Upper RSP    NP‡       No Different
+                                                               Interval†              Interval†            From National
+                                                                                                           Performance‡
+ME                     3,756           428         11.4%           13.7%     15.0%        16.4%     9.7%          Worse
+MI                    22,486         2,230          9.9%           12.7%     13.2%        13.7%     9.7%          Worse
+MN                     4,795           310          6.5%            7.8%      8.6%         9.6%     9.7%           Better
+MO                     4,301           120          2.8%            3.3%      3.9%         4.6%     9.7%           Better
+MS                     8,996           946         10.5%           13.3%     14.1%        15.0%     9.7%          Worse
+MT                     2,489           234          9.4%           11.0%     12.4%        14.0%     9.7%          Worse
+NC                    25,166         2,705         10.7%           13.7%     14.2%        14.7%     9.7%          Worse
+ND                       863            26          3.0%            3.2%      4.4%         6.2%     9.7%           Better
+NE                     2,382           129          5.4%            6.1%      7.2%         8.5%     9.7%           Better
+NH                     1,373            64          4.7%            5.0%      6.4%         8.0%     9.7%           Better
+NJ                     2,939           128          4.4%            5.0%      5.9%         7.0%     9.7%           Better
+NM                     5,937           878         14.8%           18.4%     19.5%        20.8%     9.7%          Worse
+NV                     6,191           540          8.7%           10.6%     11.4%        12.4%     9.7%          Worse
+NY                    46,412         7,815         16.8%           22.0%     22.4%        22.9%     9.7%          Worse
+OH                    20,116         1,764          8.8%           11.2%     11.7%        12.3%     9.7%          Worse
+OK                    12,918           989          7.7%            9.5%     10.1%        10.7%     9.7%     No different
+OR                    11,056         1,197         10.8%           13.8%     14.5%        15.3%     9.7%          Worse
+PA                     4,373           166          3.8%            4.5%      5.2%         6.0%     9.7%           Better
+PR                     4,572           455         10.0%           12.1%     13.2%        14.3%     9.7%          Worse
+RI                     2,511           196          7.8%            9.0%     10.3%        11.8%     9.7%     No different
+SC                    13,394         1,276          9.5%           11.9%     12.6%        13.2%     9.7%          Worse
+SD                     1,439           144         10.0%           11.2%     13.1%        15.2%     9.7%          Worse
+TN                     7,855           225          2.9%            3.5%      4.0%         4.5%     9.7%           Better
+TX                    51,319         2,876          5.6%            7.1%      7.3%         7.6%     9.7%           Better
+UT                     8,601           788          9.2%           11.7%     12.5%        13.4%     9.7%          Worse
+VA                     4,230           154          3.6%            4.3%      5.0%         5.8%     9.7%           Better
+VT                       635            30          4.7%            4.8%      6.6%         9.1%     9.7%           Better
+WA                     3,240           384         11.9%           14.0%     15.4%        16.9%     9.7%          Worse
+WI                     3,686           133          3.6%            4.1%      4.9%         5.7%     9.7%           Better
+WV                     5,011           425          8.5%           10.2%     11.2%        12.3%     9.7%          Worse
+WY                       829            41          4.9%            5.0%      6.7%         8.9%     9.7%           Better
+
+
+CFSR Round 4 Statewide Data Indicators Workbook, March 2026                                                                 11
+Permanency in 12 months for children entering foster care
+Description: Among children who entered foster care in a 12-month period, the percent who exited foster care to reunification, adoption,
+guardianship, or living with a relative within 12 months of their entry
+
+12-month period: 23B24A
+Data used: 23B−25B
+       *=Observed Performance (OP)
+       †=Risk-Standardized Performance (RSP)
+       ‡=RSP Relative to National Performance (NP)
+       DQ=Excluded due to data quality
+                                                                                                                        Better/Worse/
+     State     Denominator*    Numerator*         OP*         Lower RSP        RSP†        Upper RSP         NP ‡        No Different
+                                                               Interval†                    Interval†                   From National
+                                                                                                                        Performance‡
+AK                     1,018            294         28.9%          24.5%          27.0%          29.6%          35.2%          Worse
+AL                     3,273          1,399         42.7%          41.4%          43.1%          44.8%          35.2%           Better
+AR                     1,798            663         36.9%          35.4%          37.7%          39.9%          35.2%           Better
+AZ                     5,003          1,819         36.4%          35.7%          37.1%          38.4%          35.2%           Better
+CA                    16,306          5,401         33.1%          34.0%          34.7%          35.5%          35.2%     No different
+CO                     2,293          1,174         51.2%          51.0%          53.1%          55.2%          35.2%           Better
+CT                     1,362            321         23.6%          22.6%          24.9%          27.3%          35.2%          Worse
+DC                       168             25         14.9%          14.0%          18.9%          25.1%          35.2%          Worse
+DE                       285             83         29.1%          26.3%          31.3%          36.9%          35.2%     No different
+FL                     8,378          2,637         31.5%          31.8%          32.8%          33.8%          35.2%          Worse
+GA                     4,600          1,233         26.8%          26.5%          27.8%          29.2%          35.2%          Worse
+HI                       417            182         43.6%          40.1%          44.8%          49.6%          35.2%           Better
+IA                     2,665          1,086         40.8%          38.1%          39.8%          41.7%          35.2%           Better
+ID                       977            512         52.4%          49.7%          52.9%          56.0%          35.2%           Better
+IL                     5,289            716         13.5%          13.4%          14.3%          15.3%          35.2%          Worse
+IN                     6,614          2,748         41.5%          39.3%          40.4%          41.6%          35.2%           Better
+KS                     2,589            856         33.1%          30.5%          32.2%          34.0%          35.2%          Worse
+KY                     4,074          1,889         46.4%          43.4%          44.8%          46.3%          35.2%           Better
+LA                     2,790          1,155         41.4%          40.3%          42.1%          44.0%          35.2%           Better
+MA                     3,389          1,153         34.0%          33.3%          34.9%          36.5%          35.2%     No different
+MD                     1,266            308         24.3%          24.1%          26.5%          29.1%          35.2%          Worse
+
+CFSR Round 4 Statewide Data Indicators Workbook, March 2026                                                                                12
+                                                                                                            Better/Worse/
+     State     Denominator*    Numerator*        OP*          Lower RSP    RSP†      Upper RSP    NP‡        No Different
+                                                               Interval†              Interval†             From National
+                                                                                                            Performance‡
+ME                     1,054           266         25.2%           22.7%     25.2%        27.8%     35.2%          Worse
+MI                     3,549           626         17.6%           17.6%     18.9%        20.3%     35.2%          Worse
+MN                     3,603         1,741         48.3%           46.4%     48.0%        49.6%     35.2%           Better
+MO                     4,567         1,298         28.4%           27.3%     28.6%        29.9%     35.2%          Worse
+MS                     2,330           990         42.5%           40.1%     42.0%        44.0%     35.2%           Better
+MT                     1,139           561         49.3%           44.1%     46.8%        49.5%     35.2%           Better
+NC                     4,384         1,187         27.1%           26.7%     28.1%        29.4%     35.2%          Worse
+ND                       568           268         47.2%           42.4%     46.3%        50.3%     35.2%           Better
+NE                     1,535           446         29.1%           27.1%     29.3%        31.6%     35.2%          Worse
+NH                       655           284         43.4%           39.6%     43.3%        47.0%     35.2%           Better
+NJ                     1,477           471         31.9%           32.3%     34.8%        37.4%     35.2%     No different
+NM                       863           212         24.6%           23.1%     25.9%        29.0%     35.2%          Worse
+NV                     2,454           970         39.5%           37.4%     39.3%        41.2%     35.2%           Better
+NY                     5,874         1,898         32.3%           32.5%     33.7%        35.0%     35.2%          Worse
+OH                     8,305         3,175         38.2%           37.3%     38.3%        39.4%     35.2%           Better
+OK                     3,236         1,147         35.4%           34.0%     35.7%        37.3%     35.2%     No different
+OR                     2,240           868         38.8%           37.1%     39.1%        41.1%     35.2%           Better
+PA                       DQ            DQ             DQ              DQ        DQ           DQ        DQ              DQ
+PR                       DQ            DQ             DQ              DQ        DQ           DQ        DQ              DQ
+RI                       696           200         28.7%           25.9%     29.1%        32.5%     35.2%          Worse
+SC                     2,323         1,231         53.0%           51.2%     53.3%        55.3%     35.2%           Better
+SD                       950           285         30.0%           26.5%     29.2%        32.1%     35.2%          Worse
+TN                     4,516         1,767         39.1%           38.2%     39.6%        41.1%     35.2%           Better
+TX                     8,889         2,945         33.1%           34.3%     35.3%        36.4%     35.2%     No different
+UT                     1,194           607         50.8%           49.1%     52.0%        54.9%     35.2%           Better
+VA                     2,204           576         26.1%           25.8%     27.6%        29.6%     35.2%          Worse
+VT                       368           115         31.3%           27.3%     31.6%        36.4%     35.2%     No different
+WA                       DQ            DQ             DQ              DQ        DQ           DQ        DQ              DQ
+WI                     3,049         1,043         34.2%           33.1%     34.8%        36.5%     35.2%     No different
+WV                       DQ            DQ             DQ              DQ        DQ           DQ        DQ              DQ
+WY                       DQ            DQ             DQ              DQ        DQ           DQ        DQ              DQ
+
+
+CFSR Round 4 Statewide Data Indicators Workbook, March 2026                                                                  13
+Permanency in 12 months for children in foster care 12 to 23 months
+Description: Among children in foster care at the start of the 12-month period who had been in care for 12 to 23 months, the percent who
+exited to permanency in the subsequent 12 months
+
+12-month period: 25A25B
+Data used: 25A−25B
+       *=Observed Performance (OP)
+       †=Risk-Standardized Performance (RSP)
+       ‡=RSP Relative to National Performance (NP)
+       DQ=Excluded due to data quality
+                                                                                                                       Better/Worse/
+     State     Denominator*    Numerator*        OP*          Lower RSP       RSP†        Upper RSP         NP‡         No Different
+                                                               Interval†                   Interval†                   From National
+                                                                                                                       Performance‡
+AK                       559            190         34.0%          29.8%         33.4%          37.2%          43.8%           Worse
+AL                     1,572            574         36.5%          34.9%         37.2%          39.6%          43.8%           Worse
+AR                       797            495         62.1%          58.7%         62.0%          65.2%          43.8%            Better
+AZ                     2,108          1,111         52.7%          51.2%         53.3%          55.4%          43.8%            Better
+CA                     7,574          3,463         45.7%          44.6%         45.7%          46.8%          43.8%            Better
+CO                       790            389         49.2%          45.1%         48.4%          51.8%          43.8%            Better
+CT                       801            197         24.6%          22.7%         25.6%          28.7%          43.8%           Worse
+DC                        99             27         27.3%          24.2%         31.7%          40.4%          43.8%           Worse
+DE                       155             64         41.3%          37.1%         44.3%          51.9%          43.8%      No different
+FL                     4,377          2,312         52.8%          50.6%         52.0%          53.4%          43.8%            Better
+GA                     2,474            961         38.8%          37.0%         38.8%          40.7%          43.8%           Worse
+HI                       174             90         51.7%          42.8%         49.4%          56.0%          43.8%      No different
+IA                     1,002            638         63.7%          61.3%         64.3%          67.1%          43.8%            Better
+ID                       381            236         61.9%          57.7%         62.5%          67.2%          43.8%            Better
+IL                     3,858          1,183         30.7%          28.4%         29.8%          31.2%          43.8%           Worse
+IN                     2,729          1,484         54.4%          51.1%         52.9%          54.7%          43.8%            Better
+KS                     1,461            453         31.0%          30.1%         32.5%          34.9%          43.8%           Worse
+KY                     1,727            622         36.0%          35.6%         37.9%          40.3%          43.8%           Worse
+LA                     1,275            758         59.5%          54.5%         57.1%          59.6%          43.8%            Better
+MA                     1,760            672         38.2%          37.3%         39.6%          41.9%          43.8%           Worse
+MD                       764            301         39.4%          37.2%         40.6%          44.1%          43.8%      No different
+
+CFSR Round 4 Statewide Data Indicators Workbook, March 2026                                                                                14
+                                                                                                           Better/Worse/
+     State     Denominator*    Numerator*        OP*          Lower RSP    RSP
+                                                                             †       Upper RSP    NP
+                                                                                                   ‡        No Different
+                                                               Interval†              Interval†            From National
+                                                                                                           Performance‡
+ME                       695           263         37.8%           33.5%     36.9%        40.3%    43.8%           Worse
+MI                     2,496           918         36.8%           35.1%     36.9%        38.8%    43.8%           Worse
+MN                     1,310           740         56.5%           54.2%     56.8%        59.4%    43.8%            Better
+MO                     2,690           867         32.2%           31.1%     32.9%        34.7%    43.8%           Worse
+MS                       898           471         52.4%           48.3%     51.5%        54.6%    43.8%            Better
+MT                       483           262         54.2%           47.5%     51.7%        55.8%    43.8%            Better
+NC                     2,452           863         35.2%           33.1%     34.9%        36.7%    43.8%           Worse
+ND                       253           100         39.5%           33.3%     38.7%        44.3%    43.8%      No different
+NE                       925           458         49.5%           46.7%     49.8%        53.0%    43.8%            Better
+NH                       246           119         48.4%           41.7%     47.4%        53.2%    43.8%      No different
+NJ                       746           307         41.2%           37.4%     40.7%        44.2%    43.8%      No different
+NM                       549           135         24.6%           21.6%     24.9%        28.4%    43.8%           Worse
+NV                     1,056           540         51.1%           47.2%     50.1%        53.0%    43.8%            Better
+NY                     3,075           972         31.6%           29.9%     31.5%        33.2%    43.8%           Worse
+OH                     3,503         1,696         48.4%           46.8%     48.4%        50.0%    43.8%            Better
+OK                     1,644           905         55.0%           50.4%     52.6%        54.9%    43.8%            Better
+OR                     1,099           501         45.6%           42.3%     45.2%        48.0%    43.8%      No different
+PA                       DQ            DQ             DQ              DQ        DQ           DQ       DQ               DQ
+PR                       DQ            DQ             DQ              DQ        DQ           DQ       DQ               DQ
+RI                       394           198         50.3%           47.3%     52.2%        57.1%    43.8%            Better
+SC                       843           375         44.5%           42.5%     45.8%        49.1%    43.8%      No different
+SD                       447           208         46.5%           41.8%     46.2%        50.6%    43.8%      No different
+TN                     1,982           809         40.8%           39.6%     41.8%        43.9%    43.8%      No different
+TX                     4,273         2,573         60.2%           56.6%     58.0%        59.4%    43.8%            Better
+UT                       347           206         59.4%           56.7%     62.0%        67.1%    43.8%            Better
+VA                     1,165           424         36.4%           35.6%     38.4%        41.3%    43.8%           Worse
+VT                       208           103         49.5%           42.7%     49.0%        55.3%    43.8%      No different
+WA                       DQ            DQ             DQ              DQ        DQ           DQ       DQ               DQ
+WI                     1,684           633         37.6%           35.1%     37.4%        39.6%    43.8%           Worse
+WV                     1,459           796         54.6%           54.3%     56.9%        59.5%    43.8%            Better
+WY                       DQ            DQ             DQ              DQ        DQ           DQ       DQ               DQ
+
+
+CFSR Round 4 Statewide Data Indicators Workbook, March 2026                                                                  15
+Permanency in 12 months for children in foster care 24 months or more
+Description: Among children in foster care at the start of the 12-month period who had been in care 24 months or more, the percent who
+exited to permanency in the subsequent 12 months
+
+12-month period: 25A25B
+Data used: 25A−25B
+       *=Observed Performance (OP)
+       †=Risk-Standardized Performance (RSP)
+       ‡=RSP Relative to National Performance (NP)
+       DQ=Excluded due to data quality
+                                                                                                                      Better/Worse/
+                                                              Lower RSP                  Upper RSP                     No Different
+     State     Denominator     Numerator         OP*                         RSP†                          NP‡
+                                                               Interval†                  Interval†                   From National
+                                                                                                                      Performance‡
+AK                       840           278         33.1%            29.0%       31.8%          34.7%          37.3%           Worse
+AL                     1,457           520         35.7%            32.5%       34.8%          37.0%          37.3%           Worse
+AR                       758           289         38.1%            38.7%       42.2%          45.8%          37.3%            Better
+AZ                     2,102           848         40.3%            38.6%       40.6%          42.5%          37.3%            Better
+CA                    10,933         3,950         36.1%            34.5%       35.4%          36.2%          37.3%           Worse
+CO                       674           286         42.4%            36.8%       40.0%          43.3%          37.3%      No different
+CT                       662           139         21.0%            19.4%       22.2%          25.3%          37.3%           Worse
+DC                       152            54         35.5%            30.7%       37.2%          44.1%          37.3%      No different
+DE                       146            38         26.0%            24.2%       30.4%          37.5%          37.3%      No different
+FL                     5,066         2,304         45.5%            41.2%       42.4%          43.6%          37.3%            Better
+GA                     3,429         1,070         31.2%            28.4%       29.8%          31.2%          37.3%           Worse
+HI                       223            96         43.0%            36.1%       41.6%          47.3%          37.3%      No different
+IA                       472           252         53.4%            51.5%       55.8%          60.1%          37.3%            Better
+ID                       252           116         46.0%            42.1%       47.8%          53.5%          37.3%            Better
+IL                     8,043         3,126         38.9%            32.9%       33.8%          34.7%          37.3%           Worse
+IN                     2,228         1,193         53.5%            47.0%       48.8%          50.6%          37.3%            Better
+KS                     2,288           672         29.4%            28.2%       30.0%          31.8%          37.3%           Worse
+KY                     2,234           934         41.8%            41.1%       43.1%          45.1%          37.3%            Better
+LA                       631           299         47.4%            40.3%       43.6%          46.9%          37.3%            Better
+MA                     3,222         1,030         32.0%            29.6%       31.1%          32.6%          37.3%           Worse
+MD                     1,146           376         32.8%            30.6%       33.1%          35.7%          37.3%           Worse
+
+CFSR Round 4 Statewide Data Indicators Workbook, March 2026                                                                              16
+                                                                                                            Better/Worse/
+                                                              Lower RSP               Upper RSP              No Different
+     State     Denominator     Numerator         OP*                        RSP
+                                                                              †
+                                                                                                   NP
+                                                                                                    ‡
+                                                               Interval†               Interval†            From National
+                                                                                                            Performance‡
+ME                       762           375         49.2%            38.8%     41.6%        44.5%    37.3%            Better
+MI                     2,816         1,067         37.9%            33.4%     35.0%        36.6%    37.3%           Worse
+MN                     1,115           374         33.5%            32.3%     35.0%        37.7%    37.3%      No different
+MO                     2,806           849         30.3%            29.1%     30.7%        32.4%    37.3%           Worse
+MS                       799           366         45.8%            40.8%     43.8%        46.9%    37.3%            Better
+MT                       723           289         40.0%            33.4%     36.4%        39.5%    37.3%      No different
+NC                     3,214         1,016         31.6%            28.9%     30.4%        31.9%    37.3%           Worse
+ND                       356           231         64.9%            49.4%     53.3%        57.1%    37.3%            Better
+NE                       909           413         45.4%            40.4%     43.2%        46.1%    37.3%            Better
+NH                       253           110         43.5%            39.6%     45.3%        51.1%    37.3%            Better
+NJ                       805           268         33.3%            28.8%     31.6%        34.5%    37.3%           Worse
+NM                       680           195         28.7%            23.7%     26.6%        29.6%    37.3%           Worse
+NV                       844           346         41.0%            35.8%     38.7%        41.6%    37.3%      No different
+NY                     5,266         1,819         34.5%            30.2%     31.3%        32.4%    37.3%           Worse
+OH                     3,626         1,173         32.3%            30.6%     32.0%        33.4%    37.3%           Worse
+OK                     1,437           671         46.7%            40.8%     43.0%        45.3%    37.3%            Better
+OR                     1,058           458         43.3%            37.8%     40.3%        42.9%    37.3%            Better
+PA                       DQ            DQ             DQ               DQ        DQ           DQ       DQ               DQ
+PR                       DQ            DQ             DQ               DQ        DQ           DQ       DQ               DQ
+RI                       392           134         34.2%            32.8%     37.2%        41.9%    37.3%      No different
+SC                       896           358         40.0%            38.9%     41.9%        45.1%    37.3%            Better
+SD                       446           190         42.6%            35.2%     39.1%        43.0%    37.3%      No different
+TN                     2,303           907         39.4%            36.1%     37.9%        39.7%    37.3%      No different
+TX                     4,278         1,422         33.2%            33.3%     34.7%        36.1%    37.3%           Worse
+UT                       303            92         30.4%            30.7%     35.9%        41.6%    37.3%      No different
+VA                     1,251           375         30.0%            29.8%     32.3%        34.9%    37.3%           Worse
+VT                       270           123         45.6%            39.4%     44.6%        49.8%    37.3%            Better
+WA                       DQ            DQ             DQ               DQ        DQ           DQ       DQ               DQ
+WI                     1,911           754         39.5%            33.4%     35.2%        37.1%    37.3%           Worse
+WV                     1,036           434         41.9%            40.1%     42.9%        45.8%    37.3%            Better
+WY                       DQ            DQ             DQ               DQ        DQ           DQ       DQ               DQ
+
+
+CFSR Round 4 Statewide Data Indicators Workbook, March 2026                                                                   17
+Reentry to foster care in 12 months
+Description: Among children who discharged to permanency (excluding adoption) in a 12-month period, the percent who
+reentered foster care within 12 months of exit
+
+12-month period: 24A24B
+Data used: 24A−25B
+       *=Observed Performance (OP)
+       †=Risk-Standardized Performance (RSP)
+       ‡=RSP Relative to National Performance (NP)
+       DQ=Excluded due to data quality
+                                                                                                          Better/Worse/
+     State     Denominator*    Numerator*        OP*          Lower RSP    RSP
+                                                                             †       Upper RSP    NP‡      No Different
+                                                               Interval†              Interval†           From National
+                                                                                                          Performance‡
+AK                       608            19          3.1%            2.8%      4.0%         5.7%      5.6%    No different
+AL                     2,274            95          4.2%            3.8%      4.6%         5.5%      5.6%          Better
+AR                     1,381            70          5.1%            4.4%      5.5%         6.8%      5.6%    No different
+AZ                     4,324           245          5.7%            5.5%      6.2%         7.0%      5.6%    No different
+CA                    11,784           730          6.2%            6.2%      6.7%         7.2%      5.6%         Worse
+CO                     1,804           149          8.3%            7.4%      8.6%        10.0%      5.6%         Worse
+CT                       724            34          4.7%            3.8%      5.2%         6.9%      5.6%    No different
+DC                       DQ            DQ             DQ              DQ        DQ           DQ        DQ             DQ
+DE                       184             6          3.3%            2.7%      4.5%         7.4%      5.6%    No different
+FL                     6,083           347          5.7%            5.7%      6.3%         7.0%      5.6%         Worse
+GA                     3,133           127          4.1%            3.8%      4.5%         5.3%      5.6%          Better
+HI                       483            25          5.2%            4.0%      5.6%         7.9%      5.6%    No different
+IA                     1,639           168         10.3%            9.2%     10.7%        12.3%      5.6%         Worse
+ID                       783            33          4.2%            3.6%      4.8%         6.5%      5.6%    No different
+IL                     3,587           164          4.6%            4.4%      5.1%         5.9%      5.6%    No different
+IN                     4,280           227          5.3%            5.1%      5.7%         6.5%      5.6%    No different
+KS                     1,556            99          6.4%            5.7%      6.8%         8.2%      5.6%         Worse
+KY                     2,890           261          9.0%            8.4%      9.5%        10.6%      5.6%         Worse
+LA                     2,142           107          5.0%            4.4%      5.3%         6.3%      5.6%    No different
+MA                     2,422           160          6.6%            6.1%      7.1%         8.2%      5.6%         Worse
+MD                       845            31          3.7%            3.1%      4.2%         5.7%      5.6%    No different
+
+CFSR Round 4 Statewide Data Indicators Workbook, March 2026                                                                 18
+                                                                                                             Better/Worse/
+     State     Denominator*    Numerator*        OP*          Lower RSP    RSP
+                                                                             †          Upper RSP    NP‡      No Different
+                                                               Interval†                 Interval†           From National
+                                                                                                             Performance‡
+ME                       DQ            DQ             DQ              DQ        DQ              DQ        DQ             DQ
+MI                     1,544            48          3.1%            2.8%      3.6%            4.7%      5.6%          Better
+MN                     3,081           250          8.1%            7.7%      8.7%            9.7%      5.6%         Worse
+MO                     2,597           141          5.4%            5.0%      5.9%            6.8%      5.6%    No different
+MS                     1,522            50          3.3%            2.9%      3.8%            4.8%      5.6%          Better
+MT                       989            72          7.3%            6.1%      7.6%            9.4%      5.6%         Worse
+NC                       DQ            DQ             DQ              DQ        DQ              DQ        DQ             DQ
+ND                       468            33          7.1%            5.3%      7.3%            9.8%      5.6%    No different
+NE                     1,043            40          3.8%            3.4%      4.4%            5.8%      5.6%    No different
+NH                       414            49         11.8%            8.6%     11.2%           14.5%      5.6%         Worse
+NJ                       953            71          7.5%            6.2%      7.7%            9.6%      5.6%         Worse
+NM                       624            32          5.1%            4.1%      5.5%            7.4%      5.6%    No different
+NV                     1,632           106          6.5%            5.7%      6.9%            8.2%      5.6%         Worse
+NY                     4,248           345          8.1%            7.8%      8.7%            9.6%      5.6%         Worse
+OH                     6,287           456          7.3%            7.1%      7.7%            8.4%      5.6%         Worse
+OK                     2,261            90          4.0%            3.6%      4.4%            5.4%      5.6%          Better
+OR                     1,755           100          5.7%            5.1%      6.2%            7.4%      5.6%    No different
+PA                       DQ            DQ             DQ              DQ        DQ              DQ        DQ             DQ
+PR                       DQ            DQ             DQ              DQ        DQ              DQ        DQ             DQ
+RI                       490            32          6.5%            5.0%      6.9%            9.3%      5.6%    No different
+SC                     1,961           111          5.7%            5.1%      6.1%            7.3%      5.6%    No different
+SD                       597            31          5.2%            4.2%      5.7%            7.8%      5.6%    No different
+TN                     3,071           209          6.8%            6.5%      7.4%            8.4%      5.6%         Worse
+TX                     6,192           184          3.0%            2.9%      3.3%            3.8%      5.6%          Better
+UT                       895            35          3.9%            3.4%      4.5%            6.0%      5.6%    No different
+VA                     1,123            43          3.8%            3.2%      4.2%            5.5%      5.6%          Better
+VT                       222            22          9.9%            6.2%      8.9%           12.8%      5.6%         Worse
+WA                       DQ            DQ                DQ           DQ           DQ           DQ           DQ        DQ
+WI                     2,464           181             7.3%         6.9%         7.9%         9.1%         5.6%      Worse
+WV                       DQ            DQ                DQ           DQ           DQ           DQ           DQ        DQ
+WY                       DQ            DQ                DQ           DQ           DQ           DQ           DQ        DQ
+
+
+CFSR Round 4 Statewide Data Indicators Workbook, March 2026                                                                    19
+Placement stability
+Description: Among children who entered care in a 12-month period, the number of placement moves per 1,000 days in foster care
+
+12-month period: 25A25B
+Data used: 25A−25B
+       *=Observed Performance (OP)
+       †=Risk-Standardized Performance (RSP)
+       ‡=RSP Relative to National Performance (NP)
+       DQ=Excluded due to data quality
+                                                                                                                      Better/Worse/
+     State     Denominator*    Numerator*        OP*          Lower RSP     RSP†          Upper RSP     NP ‡           No Different
+                                                               Interval†                   Interval†                  From National
+                                                                                                                      Performance‡
+AK                   181,127         1,033             5.70          5.37          5.71          6.06          4.48          Worse
+AL                   466,254         3,712             7.96          7.54          7.79          8.04          4.48          Worse
+AR                   286,575         2,800             9.77          9.06          9.41          9.76          4.48          Worse
+AZ                   675,557         3,315             4.91          4.56          4.71          4.88          4.48          Worse
+CA                 2,560,019         9,837             3.84          3.68          3.75          3.83          4.48           Better
+CO                   384,668         1,441             3.75          3.48          3.66          3.86          4.48           Better
+CT                   245,609         1,207             4.91          4.53          4.79          5.06          4.48          Worse
+DC                    29,775           178             5.98          5.51          6.37          7.35          4.48          Worse
+DE                    34,348           260             7.57          6.02          6.79          7.66          4.48          Worse
+FL                 1,249,200         5,876             4.70          4.65          4.77          4.89          4.48          Worse
+GA                   770,153         4,034             5.24          4.84          4.99          5.14          4.48          Worse
+HI                    77,129           430             5.58          4.82          5.29          5.81          4.48          Worse
+IA                   398,821         1,424             3.57          3.19          3.36          3.54          4.48           Better
+ID                   125,267           688             5.49          4.65          5.00          5.39          4.48          Worse
+IL                   803,876         2,809             3.49          3.48          3.61          3.74          4.48           Better
+IN                 1,165,168         4,319             3.71          3.55          3.66          3.77          4.48           Better
+KS                   391,372         2,698             6.89          5.91          6.13          6.37          4.48          Worse
+KY                   731,914         2,958             4.04          3.57          3.70          3.84          4.48           Better
+LA                   460,112         3,593             7.81          7.42          7.66          7.92          4.48          Worse
+MA                   473,155         2,970             6.28          5.39          5.59          5.79          4.48          Worse
+MD                   238,188         1,233             5.18          4.67          4.93          5.22          4.48          Worse
+ME                   117,206           526             4.49          4.44          4.83          5.25          4.48     No different
+
+CFSR Round 4 Statewide Data Indicators Workbook, March 2026                                                                            20
+                                                                                                                  Better/Worse/
+     State     Denominator*    Numerator*        OP*          Lower RSP     RSP†       Upper RSP     NP‡           No Different
+                                                               Interval†                Interval†                 From National
+                                                                                                                  Performance‡
+MI                   589,520         2,055           3.49            3.25       3.39          3.54         4.48           Better
+MN                   501,096         1,903           3.80            3.36       3.52          3.68         4.48           Better
+MO                   818,524         5,701           6.96            6.49       6.66          6.84         4.48          Worse
+MS                   362,273         2,624           7.24            6.69       6.95          7.22         4.48          Worse
+MT                   150,210           763           5.08            4.75       5.09          5.47         4.48          Worse
+NC                   785,809         5,544           7.06            6.66       6.83          7.02         4.48          Worse
+ND                   102,500           814           7.94            6.99       7.48          8.01         4.48          Worse
+NE                   291,002         1,015           3.49            3.02       3.21          3.42         4.48           Better
+NH                    82,001           582           7.10            6.00       6.51          7.05         4.48          Worse
+NJ                   224,686         1,071           4.77            4.42       4.70          4.98         4.48     No different
+NM                   122,187         1,077           8.81            8.26       8.77          9.31         4.48          Worse
+NV                   372,900         2,020           5.42            5.26       5.50          5.74         4.48          Worse
+NY                   872,064         4,030           4.62            4.15       4.27          4.41         4.48           Better
+OH                 1,342,267         5,069           3.78            3.47       3.56          3.66         4.48           Better
+OK                   572,506         2,957           5.17            5.14       5.33          5.52         4.48          Worse
+OR                   375,816         2,094           5.57            5.22       5.45          5.69         4.48          Worse
+PA                       DQ            DQ             DQ              DQ         DQ            DQ           DQ               DQ
+PR                       DQ            DQ             DQ              DQ         DQ            DQ           DQ               DQ
+RI                   105,773           349           3.30            2.70       2.99          3.31         4.48           Better
+SC                   326,268         4,413          13.53           11.93      12.29         12.66         4.48          Worse
+SD                   151,012           910           6.03            5.51       5.88          6.27         4.48          Worse
+TN                   736,235         3,532           4.80            4.04       4.17          4.31         4.48           Better
+TX                 1,615,914         7,846           4.86            4.97       5.08          5.19         4.48          Worse
+UT                   162,103         1,093           6.74            5.86       6.22          6.60         4.48          Worse
+VA                   389,564         1,473           3.78            3.28       3.45          3.63         4.48           Better
+VT                    65,400           515           7.87            6.44       7.02          7.65         4.48          Worse
+WA                       DQ            DQ             DQ              DQ         DQ            DQ           DQ               DQ
+WI                   452,929         2,123           4.69            4.26       4.44          4.63         4.48     No different
+WV                   670,934         4,546           6.78            5.77       5.94          6.11         4.48          Worse
+WY                       DQ            DQ             DQ              DQ         DQ            DQ           DQ               DQ
+
+
+
+CFSR Round 4 Statewide Data Indicators Workbook, March 2026                                                                        21
+Data Quality Elements
+Calculating performance on statewide data indicators relies upon states submitting high-quality data. Data quality checks are performed
+prior to calculating state performance. See the Data Dictionary for a complete description of each check and what the values represent.
+AFCARS Data Quality Checks
+                                                      Data Quality                          Permanency in 12 Months
+                  Data Quality Checks                Limits for State   Maltreatment in    (all 3 indicators) & Reentry Placement Stability
+                                                       Exclusion         Foster Care            to Foster Care in 12
+                                                                                                      Months
+ 1. AFCARS IDs don’t match from one period to next        >40%                                                               
+ 2. Date of birth after date of entry                         >5%                                                            
+ 3. Date of birth after date of exit                          >5%                                                            
+ 4. Dropped records                                       >10%                                                               
+ 5. Enters and exits care the same day                        >5%                                                            
+ 6. Exit date is prior to removal date                        >5%                                                            
+ 7. Missing date of birth                                     >5%                                                            
+ 8. Missing date of latest removal                            >5%                                                            
+ 9. Missing discharge reason (exit date exists)           >10%                                         
+ 10. Missing number of placement settings                     >5%                                                              
+ 11. Percentage of children on 1st removal                >95%                                                               
+
+
+
+
+CFSR Round 4 Statewide Data Indicators Workbook, March 2026                                                                               22
+NCANDS Data Quality Checks
+                                                       Data Quality      Maltreatment in   Recurrence of
+                 Data Quality Checks                  Limits for State    Foster Care      Maltreatment
+                                                        Exclusion
+ 1. Child IDs for victims match across years                  <1%                               
+ 2. Child IDs for victims match across years, but             >5%                               
+    dates of birth/age and sex do not
+ 3. Missing age for victims                                   >5%                              
+ 4. Some victims should have AFCARS IDs in Child              <1%
+                                                                               
+    File
+ 5. Some victims with AFCARS IDs should match                 >0
+                                                                               
+    IDs in AFCARS files
+
+
+
+
+CFSR Round 4 Statewide Data Indicators Workbook, March 2026                                                23
+AFCARS Data Quality Checks, by Data Period
+ Values in red indicate data quality performance exceeds the data quality limit. Performance on the indicator was not calculated for
+ states that exceeded one or more limits on data quality (DQ) checks done for the indicator, or had missing AFCARS
+ submission(s). “[No data]” indicates there was no data quality check assessed for that data period because it relies on a
+ subsequent period of data that is not yet available.
+
+ 1. AFCARS IDs don't match from one period to next (Limit: >40%)
+  State          2021A      2021B      2022A      2022B       2023A   2023B      2024A      2024B      2025A      2025B
+  AK             18.0%      18.1%       18.7%      18.5%      17.6%    18.9%      16.7%      18.5%      17.4%    [no data]
+  AL             24.5%      26.8%       24.5%      23.8%      21.2%    22.3%      21.7%      22.9%      22.2%    [no data]
+  AR             21.2%      22.5%       22.7%      25.5%      35.5%    25.2%      24.1%      24.8%      24.2%    [no data]
+  AZ             22.3%      23.8%       24.3%      25.7%      24.4%    25.9%      26.3%      27.1%      25.4%    [no data]
+  CA             20.1%      20.6%       20.2%      21.4%      19.7%    21.3%      22.5%      22.4%      22.1%    [no data]
+  CO             30.1%      29.7%       28.7%      30.3%      25.1%    26.1%      26.6%      27.4%      24.9%    [no data]
+  CT             18.1%      21.9%       20.5%      21.6%      21.1%    19.3%      20.0%      17.8%      19.7%    [no data]
+  DC             20.5%      19.2%       20.3%      18.2%      13.8%    18.2%      14.2%      12.9%      15.8%    [no data]
+  DE             25.6%      26.7%       21.3%      21.3%      20.0%    21.4%      23.8%      25.2%      19.3%    [no data]
+  FL             20.4%      21.4%       20.1%      22.4%      20.1%    20.9%      22.9%      24.1%      23.3%    [no data]
+  GA             19.0%      20.0%       18.3%      19.3%      16.8%    18.6%      17.6%      19.4%      17.7%    [no data]
+  HI             26.8%      29.5%       27.5%      28.9%      31.6%    27.4%      28.1%      28.9%      28.1%    [no data]
+  IA             31.2%      26.6%       27.4%      25.3%      25.8%    28.0%      25.8%      25.7%      25.7%    [no data]
+  ID             27.7%      29.8%       29.1%      23.8%      26.4%    26.4%      27.7%      30.9%      25.7%    [no data]
+  IL             11.8%      12.3%       11.8%      16.2%      12.0%    14.0%      13.6%      14.9%      15.7%    [no data]
+  IN             23.1%      24.4%       24.8%      25.1%      24.9%    23.0%      21.5%      20.6%      22.4%    [no data]
+  KS             17.2%      17.8%       18.7%      18.4%      16.3%    17.2%      15.3%      17.1%      15.5%    [no data]
+  KY             21.4%      23.0%       23.3%      24.7%      23.0%    23.3%      23.4%      22.2%      20.5%    [no data]
+  LA             27.3%      27.6%       26.4%      27.3%      25.4%    25.9%      24.5%      26.2%      23.7%    [no data]
+  MA             18.0%      18.5%       17.7%      19.2%      15.7%    16.7%      16.9%      17.8%      17.7%    [no data]
+  MD             15.6%      17.2%       16.4%      19.2%      15.6%    16.4%      16.2%      16.3%      15.6%    [no data]
+  ME             19.7%      17.3%       21.4%      16.0%      15.6%    16.0%      15.9%      17.8%      18.4%    [no data]
+  MI             20.1%      19.4%       18.1%      16.7%      16.1%    15.8%      14.2%      15.0%      15.2%    [no data]
+  MN             26.2%      25.3%       26.7%      27.1%      26.8%    26.7%      25.5%      25.6%      25.7%    [no data]
+  MO             19.4%      20.0%       20.3%      20.5%      19.5%    20.0%      20.6%      20.6%      20.0%    [no data]
+  MS             27.2%      21.4%       20.7%      23.3%      24.6%    21.6%      21.2%      24.1%      22.5%    [no data]
+
+CFSR Round 4 Statewide Data Indicators Workbook, March 2026                                                                       24
+  State          2021A      2021B      2022A      2022B       2023A   2023B   2024A   2024B   2025A    2025B
+  MT             22.3%      21.9%       22.5%      29.0%      22.6%   27.5%   23.2%   23.7%   26.1%   [no data]
+  NC             19.8%      29.1%       19.3%      18.7%      18.2%   18.3%   17.5%   19.7%   20.8%   [no data]
+  ND             22.3%      21.7%       20.5%      27.2%      22.2%   24.9%   24.2%   27.2%   25.5%   [no data]
+  NE             17.9%      16.6%       18.2%      20.0%      18.2%   19.7%   18.3%   19.3%   18.7%   [no data]
+  NH             20.3%      21.3%       20.1%      21.6%      20.9%   22.4%   19.8%   20.8%   19.7%   [no data]
+  NJ             22.9%      21.1%       22.7%      23.3%      20.9%   22.5%   20.1%   21.3%   22.1%   [no data]
+  NM             22.9%      24.4%       21.5%      26.3%      20.9%   19.3%   17.5%   17.8%   17.4%   [no data]
+  NV             22.4%      26.0%       23.9%      26.8%      22.6%   25.3%   23.6%   23.4%   22.8%   [no data]
+  NY             17.1%      18.0%       17.5%      20.5%      16.8%   18.2%   17.6%   17.5%   17.8%   [no data]
+  OH             24.0%      24.1%       21.6%      23.0%      20.7%   21.6%   21.3%   22.8%   21.3%   [no data]
+  OK             19.2%      22.0%       21.3%      22.8%      20.7%   23.8%   21.9%   25.6%   21.4%   [no data]
+  OR             22.3%      21.5%       21.4%      24.9%      23.3%   24.3%   21.7%   21.9%   19.5%   [no data]
+  PA             21.3%      22.1%       20.4%      28.7%      22.0%   23.1%   20.7%   24.2%   21.9%   [no data]
+  PR              9.1%      18.7%       11.9%      22.9%      14.5%   15.2%   15.5%   14.3%   12.4%   [no data]
+  RI             20.8%      21.1%       21.2%      21.8%      19.4%   20.2%   15.8%   19.7%   19.0%   [no data]
+  SC             24.0%      25.1%       25.2%      29.4%      25.9%   29.8%   28.3%   28.6%   29.4%   [no data]
+  SD             21.4%      23.9%       21.3%      23.9%      21.8%   21.3%   21.8%   22.9%   22.1%   [no data]
+  TN             20.5%      23.1%       21.5%      20.9%      20.1%   20.8%   20.7%   20.1%   19.8%   [no data]
+  TX             21.1%      23.8%       26.6%      28.0%      24.0%   23.9%   22.4%   21.7%   21.4%   [no data]
+  UT             26.7%      28.4%       24.2%      27.6%      26.1%   28.8%   28.0%   27.5%   26.6%   [no data]
+  VA             19.4%      20.9%       19.2%      20.2%      20.9%   19.3%   17.2%   17.2%   15.3%   [no data]
+  VT             20.6%      20.9%       20.5%      21.1%      21.2%   21.5%   22.0%   22.6%   23.5%   [no data]
+  WA             20.4%      20.3%       20.3%      19.8%      19.8%   20.7%   20.7%   26.0%   20.7%   [no data]
+  WI             19.9%      20.8%       19.0%      23.9%      20.7%   21.5%   20.5%   20.8%   19.7%   [no data]
+  WV             23.4%      25.0%       24.7%      28.8%      23.3%   26.1%   23.2%   27.8%   23.7%   [no data]
+  WY             29.8%      30.9%       27.5%      33.9%      29.6%   44.4%   34.0%   37.1%   40.8%   [no data]
+
+
+
+
+CFSR Round 4 Statewide Data Indicators Workbook, March 2026                                                       25
+ 2. Date of birth after date of entry (Limit: >5%)
+  State          2021A      2021B      2022A      2022B       2023A   2023B   2024A   2024B   2025A   2025B
+  AK              0.0%       0.0%       0.0%       0.0%        0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  AL              0.0%       0.0%       0.0%       0.0%        0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  AR              0.0%       0.0%       0.0%       0.0%        0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  AZ              0.0%       0.0%       0.0%       0.0%        0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  CA              0.1%       0.1%       0.1%       0.1%        0.1%    0.1%    0.1%    0.1%    0.1%    0.1%
+  CO              0.0%       0.1%       0.0%       0.0%        0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  CT              0.0%       0.0%       0.0%       0.0%        0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  DC              0.0%       0.0%       0.0%       0.0%        0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  DE              0.0%       0.0%       0.0%       0.0%        0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  FL              0.0%       0.0%       0.0%       0.0%        0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  GA              0.0%       0.0%       0.0%       0.0%        0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  HI              0.0%       0.0%       0.0%       0.0%        0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  IA              0.0%       0.0%       0.0%       0.0%        0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  ID              0.0%       0.0%       0.0%       0.0%        0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  IL              0.0%       0.0%       0.0%       0.0%        0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  IN              0.0%       0.0%       0.0%       0.0%        0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  KS              0.0%       0.0%       0.0%       0.0%        0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  KY              0.0%       0.0%       0.0%       0.0%        0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  LA              0.0%       0.0%       0.0%       0.0%        0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  MA              0.0%       0.0%       0.0%       0.0%        0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  MD              0.0%       0.0%       0.0%       0.0%        0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  ME              0.0%       0.0%       0.0%       0.0%        0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  MI              0.0%       0.0%       0.0%       0.0%        0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  MN              0.0%       0.0%       0.0%       0.0%        0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  MO              0.0%       0.0%       0.0%       0.0%        0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  MS              0.0%       0.0%       0.0%       0.0%        0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  MT              0.0%       0.0%       0.0%       0.0%        0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  NC              0.0%       0.0%       0.0%       0.0%        0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  ND              0.0%       0.0%       0.0%       0.0%        0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  NE              0.0%       0.0%       0.0%       0.0%        0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  NH              0.0%       0.0%       0.0%       0.0%        0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  NJ              0.0%       0.0%       0.0%       0.0%        0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+CFSR Round 4 Statewide Data Indicators Workbook, March 2026                                                   26
+  State          2021A      2021B      2022A      2022B       2023A   2023B   2024A   2024B   2025A   2025B
+  NM              0.0%       0.0%       0.0%       0.0%        0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  NV              0.0%       0.0%       0.0%       0.0%        0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  NY              0.0%       0.0%       0.0%       0.0%        0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  OH              0.0%       0.0%       0.0%       0.0%        0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  OK              0.0%       0.0%       0.0%       0.0%        0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  OR              0.0%       0.0%       0.0%       0.0%        0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  PA              0.0%       0.0%       0.0%       0.4%        0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  PR              0.0%       0.1%       0.0%       0.1%        0.0%    0.0%    0.0%    0.1%    0.1%    0.0%
+  RI              0.0%       0.0%       0.0%       0.0%        0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  SC              0.0%       0.0%       0.0%       0.0%        0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  SD              0.0%       0.0%       0.0%       0.0%        0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  TN              0.0%       0.0%       0.0%       0.0%        0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  TX              0.0%       0.0%       0.0%       0.0%        0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  UT              0.0%       0.0%       0.0%       0.0%        0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  VA              0.0%       0.0%       0.1%       0.0%        0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  VT              0.2%       0.1%       0.2%       0.1%        0.2%    0.1%    0.0%    0.1%    0.1%    0.2%
+  WA              0.0%       0.0%       0.0%       0.0%        0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  WI              0.0%       0.0%       0.0%       0.0%        0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  WV              0.1%       0.1%       0.1%       0.0%        0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  WY              0.1%       0.0%       0.0%       0.0%        0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+
+
+
+
+CFSR Round 4 Statewide Data Indicators Workbook, March 2026                                                   27
+ 3. Date of birth after date of exit (Limit: >5%)
+  State          2021A      2021B      2022A      2022B       2023A   2023B   2024A   2024B   2025A   2025B
+  AK              0.0%       0.0%       0.0%       0.0%        0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  AL              0.0%       0.0%       0.0%       0.0%        0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  AR              0.0%       0.0%       0.0%       0.0%        0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  AZ              0.0%       0.0%       0.0%       0.0%        0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  CA              0.0%       0.0%       0.0%       0.0%        0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  CO              0.0%       0.0%       0.0%       0.0%        0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  CT              0.0%       0.0%       0.0%       0.0%        0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  DC              0.0%       0.0%       0.0%       0.0%        0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  DE              0.0%       0.0%       0.0%       0.0%        0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  FL              0.0%       0.0%       0.0%       0.0%        0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  GA              0.0%       0.0%       0.0%       0.0%        0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  HI              0.0%       0.0%       0.0%       0.0%        0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  IA              0.0%       0.0%       0.0%       0.0%        0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  ID              0.0%       0.0%       0.0%       0.0%        0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  IL              0.0%       0.0%       0.0%       0.0%        0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  IN              0.0%       0.0%       0.0%       0.0%        0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  KS              0.0%       0.0%       0.0%       0.0%        0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  KY              0.0%       0.0%       0.0%       0.0%        0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  LA              0.0%       0.0%       0.0%       0.0%        0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  MA              0.0%       0.0%       0.0%       0.0%        0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  MD              0.0%       0.0%       0.0%       0.0%        0.2%    0.0%    0.0%    0.0%    0.0%    0.0%
+  ME              0.0%       0.0%       0.0%       0.0%        0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  MI              0.0%       0.0%       0.0%       0.0%        0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  MN              0.0%       0.0%       0.0%       0.0%        0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  MO              0.0%       0.0%       0.0%       0.0%        0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  MS              0.0%       0.0%       0.0%       0.0%        0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  MT              0.0%       0.0%       0.0%       0.0%        0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  NC              0.0%       0.0%       0.0%       0.0%        0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  ND              0.0%       0.0%       0.0%       0.0%        0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  NE              0.0%       0.0%       0.0%       0.0%        0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  NH              0.0%       0.0%       0.0%       0.0%        0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  NJ              0.0%       0.0%       0.0%       0.0%        0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  NM              0.0%       0.0%       0.0%       0.0%        0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+CFSR Round 4 Statewide Data Indicators Workbook, March 2026                                                   28
+  State          2021A      2021B      2022A      2022B       2023A   2023B   2024A   2024B   2025A   2025B
+  NV              0.0%       0.0%       0.0%       0.0%        0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  NY              0.0%       0.0%       0.0%       0.0%        0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  OH              0.0%       0.0%       0.0%       0.0%        0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  OK              0.0%       0.0%       0.0%       0.0%        0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  OR              0.0%       0.0%       0.0%       0.0%        0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  PA              0.0%       0.0%       0.0%       0.1%        0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  PR              0.0%       0.0%       0.0%       0.0%        0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  RI              0.0%       0.0%       0.0%       0.0%        0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  SC              0.0%       0.0%       0.0%       0.0%        0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  SD              0.0%       0.0%       0.0%       0.0%        0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  TN              0.0%       0.0%       0.0%       0.0%        0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  TX              0.0%       0.0%       0.0%       0.0%        0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  UT              0.0%       0.0%       0.0%       0.0%        0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  VA              0.0%       0.0%       0.0%       0.0%        0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  VT              0.0%       0.0%       0.0%       0.0%        0.0%    0.0%    0.0%    0.4%    0.0%    0.0%
+  WA              0.0%       0.0%       0.0%       0.0%        0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  WI              0.0%       0.0%       0.0%       0.0%        0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  WV              0.0%       0.0%       0.0%       0.0%        0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  WY              0.0%       0.0%       0.0%       0.0%        0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+
+
+
+
+CFSR Round 4 Statewide Data Indicators Workbook, March 2026                                                   29
+ 4. Dropped records (Limit: >10%)
+  State          2021A      2021B      2022A       2022B      2023A   2023B   2024A   2024B   2025A     2025B
+  AK              0.4%       0.2%       0.3%        1.5%       2.4%    1.6%    2.3%    1.9%    1.7%   [no data]
+  AL              0.7%       1.2%       1.5%        1.2%       0.0%    0.0%    0.7%    1.1%    1.6%   [no data]
+  AR              0.3%       0.9%       0.0%        0.5%      11.1%    0.0%    0.0%    0.0%    0.3%   [no data]
+  AZ              0.1%       0.0%       0.1%        0.5%       0.0%    0.0%    0.4%    0.2%    0.6%   [no data]
+  CA              0.7%       0.8%       0.8%        2.5%       0.5%    1.9%    2.1%    1.9%    1.9%   [no data]
+  CO              0.6%       1.4%       1.3%        4.3%       3.3%    3.0%    2.9%    2.7%    3.1%   [no data]
+  CT              1.4%       1.5%       1.8%        2.8%       2.2%    0.6%    2.1%    2.0%    4.2%   [no data]
+  DC              0.2%       0.0%       0.0%        1.0%       0.0%    0.0%    0.0%    0.0%    1.0%   [no data]
+  DE              3.3%       1.5%       2.6%        1.5%       0.4%    3.5%    0.9%    1.9%    0.2%   [no data]
+  FL              0.2%       0.2%       0.2%        1.1%       0.1%    0.0%    1.1%    0.7%    1.0%   [no data]
+  GA              0.0%       0.0%       0.0%        1.9%       0.8%    1.0%    0.9%    0.9%    0.8%   [no data]
+  HI              0.8%       0.8%       0.6%        3.3%       0.1%    0.1%    0.3%    0.1%    0.1%   [no data]
+  IA              1.6%       1.8%       2.0%        1.4%       0.0%    0.5%    0.5%    0.5%    0.8%   [no data]
+  ID              2.8%       3.1%       1.5%        1.1%       0.0%    0.0%    0.7%    0.4%    0.0%   [no data]
+  IL              0.0%       0.1%       0.1%        2.9%       0.1%    0.0%    0.0%    0.2%    0.8%   [no data]
+  IN              0.2%       0.2%       0.2%        0.4%       0.1%    0.1%    0.1%    0.1%    0.0%   [no data]
+  KS              0.3%       0.3%       0.3%        0.6%       0.2%    0.4%    0.0%    0.1%    0.1%   [no data]
+  KY              0.0%       0.0%       0.0%        0.9%       0.0%    0.0%    0.0%    0.0%    0.0%   [no data]
+  LA              0.1%       0.2%       0.2%        0.8%       0.1%    0.2%    0.4%    0.7%    0.3%   [no data]
+  MA              0.0%       0.0%       0.0%        0.5%       0.0%    0.0%    0.0%    0.0%    0.2%   [no data]
+  MD              0.1%       0.1%       0.2%        0.8%       0.1%    0.1%    0.2%    0.1%    0.4%   [no data]
+  ME              0.0%       0.6%       4.1%        1.7%       0.1%    0.4%    0.5%    0.4%    0.1%   [no data]
+  MI              0.0%       0.0%       0.0%        0.5%       0.0%    0.0%    0.1%    0.2%    0.4%   [no data]
+  MN              0.2%       0.2%       0.1%        0.4%       0.0%    0.0%    0.0%    0.0%    1.9%   [no data]
+  MO              0.6%       1.3%       0.6%        2.0%       3.8%    3.8%    4.5%    6.2%    5.7%   [no data]
+  MS              3.6%       0.2%       0.1%        2.5%       0.0%    0.1%    0.0%    0.6%    0.9%   [no data]
+  MT              0.1%       0.0%       0.0%        2.1%       0.5%    2.0%    1.6%    1.7%    2.0%   [no data]
+  NC              5.0%       8.4%       2.0%        3.6%       0.2%    2.0%    0.7%    1.5%    4.4%   [no data]
+  ND              0.2%       0.2%       0.2%        4.9%       4.0%    5.8%    3.2%    2.3%    3.5%   [no data]
+  NE              0.0%       0.0%       0.0%        0.6%       0.0%    0.5%    0.1%    0.2%    0.1%   [no data]
+  NH              1.7%       1.5%       0.7%        1.4%       0.0%    0.0%    0.0%    1.0%    0.0%   [no data]
+  NJ              0.3%       0.3%       0.1%        0.4%       0.2%    0.3%    0.3%    0.5%    0.6%   [no data]
+  NM              0.0%       0.0%       0.0%        5.9%       2.7%    2.3%    2.0%    1.7%    3.2%   [no data]
+CFSR Round 4 Statewide Data Indicators Workbook, March 2026                                                       30
+  State          2021A      2021B      2022A       2022B      2023A   2023B   2024A   2024B   2025A     2025B
+  NV              0.1%       0.1%       0.1%        0.5%       0.0%    0.1%    0.5%    0.7%    0.2%   [no data]
+  NY              0.1%       0.0%       0.1%        3.2%       0.4%    0.5%    0.2%    0.2%    0.0%   [no data]
+  OH              0.3%       0.3%       0.2%        1.0%       0.0%    0.0%    0.0%    0.0%    0.0%   [no data]
+  OK              0.0%       0.4%       0.0%        0.9%       0.2%    0.3%    0.1%    0.8%    0.3%   [no data]
+  OR              0.3%       0.6%       0.2%        5.7%       2.2%    2.0%    1.2%    0.6%    1.3%   [no data]
+  PA              0.4%       0.7%       0.4%        5.6%       1.1%    0.6%    0.6%    2.4%    2.5%   [no data]
+  PR              0.3%       1.9%       1.1%        7.1%       1.5%    6.9%    6.8%    3.9%    4.5%   [no data]
+  RI              0.0%       0.0%       0.0%        2.9%       0.1%    0.5%    0.7%    1.0%    0.6%   [no data]
+  SC              0.0%       0.1%       0.1%        0.5%       0.0%    0.0%    0.1%    0.1%    0.1%   [no data]
+  SD              0.3%       0.4%       0.5%        0.2%       0.4%    0.1%    0.1%    0.1%    0.4%   [no data]
+  TN              0.1%       0.3%       0.1%        0.3%       0.1%    0.1%    0.1%    0.1%    0.2%   [no data]
+  TX              0.1%       0.0%       0.0%        2.1%       0.0%    0.0%    0.0%    0.0%    0.0%   [no data]
+  UT              0.0%       0.1%       0.0%        0.3%       0.8%    0.5%    0.6%    0.6%    1.0%   [no data]
+  VA              0.0%       0.0%       0.0%        2.7%       2.0%    1.3%    1.0%    0.7%    0.7%   [no data]
+  VT              0.5%       1.0%       1.2%        0.7%       1.5%    2.1%    2.0%    2.6%    0.8%   [no data]
+  WA              0.1%       0.0%       0.2%        0.1%       0.1%    0.0%    0.1%    2.6%   14.6%   [no data]
+  WI              0.0%       0.1%       0.1%        1.8%       0.4%    0.4%    0.4%    0.4%    0.8%   [no data]
+  WV              0.1%       0.0%       0.1%        4.6%       2.0%    3.2%    1.7%   10.2%    2.8%   [no data]
+  WY              0.8%       0.2%       0.7%        1.1%       1.1%   12.8%    1.6%    0.3%    4.5%   [no data]
+
+
+
+
+CFSR Round 4 Statewide Data Indicators Workbook, March 2026                                                       31
+ 5. Enters and exits care the same day (Limit: >5%)
+  State          2021A      2021B      2022A       2022B      2023A   2023B   2024A   2024B   2025A   2025B
+  AK              0.0%       0.3%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  AL              0.0%       0.0%       0.1%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  AR              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  AZ              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  CA              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  CO              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  CT              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  DC              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  DE              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  FL              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  GA              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.3%    0.4%    0.3%    0.0%
+  HI              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  IA              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  ID              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  IL              0.0%       0.2%       0.1%        0.3%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  IN              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  KS              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  KY              0.3%       0.3%       0.1%        0.4%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  LA              0.1%       0.0%       0.1%        0.1%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  MA              0.0%       0.0%       0.0%        0.0%       0.0%    0.1%    0.0%    0.0%    0.0%    0.0%
+  MD              2.0%       1.6%       1.8%        1.1%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  ME              0.0%       0.0%       0.2%        0.5%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  MI              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  MN              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  MO              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.1%
+  MS              0.2%       0.0%       0.4%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  MT              0.0%       0.1%       0.4%        0.4%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  NC              0.0%       0.4%       0.0%        0.0%       0.0%    0.3%    0.1%    0.1%    0.1%    0.1%
+  ND              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  NE              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  NH              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  NJ              0.0%       0.1%       0.1%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  NM              0.0%       0.0%       0.0%        0.2%       0.2%    2.3%    0.0%    0.2%    0.0%    0.0%
+CFSR Round 4 Statewide Data Indicators Workbook, March 2026                                                   32
+  State          2021A      2021B      2022A       2022B      2023A   2023B   2024A   2024B   2025A   2025B
+  NV              0.1%       0.1%       0.1%        0.1%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  NY              0.1%       0.1%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  OH              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.1%    0.0%    0.0%
+  OK              0.1%       0.0%       0.1%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  OR              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.1%    0.0%    0.0%
+  PA              0.0%       0.0%       0.0%        0.0%       0.0%    0.1%    0.1%    0.1%    0.0%    0.0%
+  PR              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    1.2%    0.0%    0.0%    0.0%
+  RI              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  SC              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  SD              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  TN              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  TX              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  UT              0.3%       0.3%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  VA              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  VT              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  WA              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  WI              0.0%       0.0%       0.0%        0.0%       0.1%    0.0%    0.1%    0.0%    0.0%    0.0%
+  WV              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.1%
+  WY              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+
+
+
+
+CFSR Round 4 Statewide Data Indicators Workbook, March 2026                                                   33
+ 6. Exit date is prior to removal date (Limit: >5%)
+  State          2021A      2021B      2022A       2022B      2023A   2023B   2024A   2024B   2025A   2025B
+  AK              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  AL              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  AR              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  AZ              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  CA              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  CO              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  CT              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  DC              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  DE              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  FL              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  GA              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  HI              0.0%       0.0%       0.0%        0.0%       0.2%    0.0%    0.0%    0.0%    0.0%    0.0%
+  IA              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  ID              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  IL              0.4%       0.3%       0.2%        0.3%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  IN              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  KS              0.0%       0.0%       0.1%        0.0%       0.6%    0.0%    0.0%    0.0%    0.0%    0.0%
+  KY              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  LA              0.0%       0.0%       0.0%        0.1%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  MA              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  MD              0.1%       0.3%       0.2%        0.4%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  ME              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  MI              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  MN              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  MO              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  MS              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  MT              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  NC              0.0%       1.2%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  ND              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  NE              0.0%       0.4%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  NH              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  NJ              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  NM              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+CFSR Round 4 Statewide Data Indicators Workbook, March 2026                                                   34
+  State          2021A      2021B      2022A       2022B      2023A   2023B   2024A   2024B   2025A   2025B
+  NV              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  NY              0.2%       0.0%       0.0%        0.1%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  OH              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  OK              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  OR              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  PA              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  PR              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  RI              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  SC              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  SD              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  TN              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  TX              0.0%       0.1%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  UT              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  VA              0.1%       0.2%       0.1%        0.1%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  VT              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  WA              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  WI              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  WV              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  WY              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+
+
+
+
+CFSR Round 4 Statewide Data Indicators Workbook, March 2026                                                   35
+ 7. Missing date of birth (Limit: >5%)
+  State          2021A      2021B      2022A       2022B      2023A   2023B   2024A   2024B   2025A   2025B
+  AK              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  AL              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  AR              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  AZ              0.3%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  CA              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  CO              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  CT              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  DC              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  DE              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  FL              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  GA              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  HI              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  IA              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  ID              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  IL              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  IN              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  KS              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  KY              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  LA              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  MA              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  MD              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  ME              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  MI              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  MN              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  MO              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  MS              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  MT              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  NC              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  ND              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  NE              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  NH              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  NJ              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+CFSR Round 4 Statewide Data Indicators Workbook, March 2026                                                   36
+  State          2021A      2021B      2022A       2022B      2023A   2023B   2024A   2024B   2025A   2025B
+  NM              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  NV              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  NY              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  OH              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  OK              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  OR              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  PA              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  PR              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  RI              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  SC              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  SD              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  TN              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  TX              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  UT              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  VA              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  VT              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  WA              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  WI              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  WV              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  WY              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+
+
+
+
+CFSR Round 4 Statewide Data Indicators Workbook, March 2026                                                   37
+ 8. Missing date of latest removal (Limit: >5%)
+  State          2021A      2021B      2022A       2022B      2023A   2023B   2024A   2024B   2025A   2025B
+  AK              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  AL              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  AR              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  AZ              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  CA              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  CO              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  CT              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  DC              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  DE              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  FL              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  GA              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  HI              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  IA              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  ID              0.2%       0.1%       0.1%        0.1%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  IL              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  IN              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  KS              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  KY              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  LA              0.0%       0.0%       0.1%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  MA              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  MD              0.0%       0.0%       0.1%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  ME              0.0%       0.0%       0.6%        0.1%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  MI              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  MN              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  MO              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  MS              0.2%       0.2%       0.4%        0.2%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  MT              0.0%       0.0%       0.1%        0.1%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  NC              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  ND              0.8%       0.8%       0.6%        0.4%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  NE              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  NH              0.0%       0.0%       0.0%        0.1%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  NJ              0.2%       0.2%       0.2%        0.3%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  NM              0.0%       0.1%       0.1%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+CFSR Round 4 Statewide Data Indicators Workbook, March 2026                                                   38
+  State          2021A      2021B      2022A       2022B      2023A   2023B   2024A   2024B   2025A   2025B
+  NV              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  NY              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  OH              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  OK              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  OR              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  PA              0.0%       0.0%       0.1%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  PR              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  RI              0.0%       0.2%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  SC              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  SD              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  TN              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  TX              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  UT              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  VA              0.1%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  VT              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  WA              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  WI              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  WV              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  WY              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+
+
+
+
+CFSR Round 4 Statewide Data Indicators Workbook, March 2026                                                   39
+ 9. Missing discharge reason (exit date exists) (Limit: >10%)
+  State          2021A      2021B      2022A       2022B      2023A   2023B   2024A   2024B   2025A   2025B
+  AK              3.0%       0.9%       1.9%        1.5%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  AL              0.0%       0.2%       0.1%        0.2%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  AR              0.1%       0.1%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  AZ              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  CA              0.2%       0.1%       0.2%        0.2%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  CO              5.0%       5.4%       3.5%        6.6%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  CT              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  DC              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    2.9%
+  DE              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  FL              1.0%       1.0%       0.8%        0.8%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  GA              0.0%       0.4%       0.0%        0.0%       0.0%    0.1%    0.1%    0.0%    0.1%    0.2%
+  HI              1.1%       1.2%       1.1%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  IA              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  ID              4.6%       3.6%       4.2%        1.9%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  IL              2.3%       2.1%       1.7%        2.2%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  IN              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  KS              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  KY              0.6%       1.1%       0.9%        1.6%       0.9%    0.7%    0.6%    0.3%    0.3%    0.5%
+  LA              5.3%       4.8%       4.7%        4.2%       0.5%    2.9%    2.8%    3.4%    3.9%    0.0%
+  MA              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  MD              5.5%       3.7%       6.1%        5.5%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  ME              0.0%       0.0%       8.0%        3.1%       0.0%    0.0%    0.0%    0.0%    0.2%    0.0%
+  MI              1.3%       1.5%       1.7%        0.9%       0.0%    0.2%    0.7%    0.5%    0.7%    1.0%
+  MN              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  MO              0.2%       0.4%       0.1%        0.2%       2.6%    2.0%    1.4%    0.1%    0.4%    0.5%
+  MS              0.8%       0.9%       1.3%        0.4%       1.8%    2.1%    1.6%    1.0%    1.5%    0.9%
+  MT              2.2%       2.2%       1.8%        1.6%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  NC              0.0%       0.4%       0.7%        0.1%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  ND              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  NE              0.0%       0.0%       0.0%        0.0%       5.2%    6.4%    5.2%    0.0%    0.1%    0.2%
+  NH              0.0%       0.0%       0.0%        0.3%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  NJ              0.0%       0.0%       0.0%        0.3%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  NM              0.2%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+CFSR Round 4 Statewide Data Indicators Workbook, March 2026                                                   40
+  State          2021A      2021B      2022A       2022B      2023A   2023B   2024A   2024B   2025A   2025B
+  NV              0.2%       0.2%       0.0%        0.1%       0.0%    0.0%    0.0%    0.0%    0.1%    0.0%
+  NY              0.3%       0.4%       0.3%        0.4%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  OH              1.0%       1.3%       0.9%        1.9%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  OK              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  OR              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  PA              0.0%       0.0%       0.3%        0.0%       2.8%    4.1%    3.1%    5.0%    3.9%    2.8%
+  PR              0.5%       0.2%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  RI              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  SC              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  SD              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  TN              0.1%       0.1%       0.0%        0.1%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  TX              0.0%       0.1%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  UT              0.2%       0.1%       0.0%        1.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  VA              0.5%       1.0%       1.5%        1.1%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  VT              0.0%       0.3%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  WA              0.5%       0.2%       0.1%        0.3%       0.5%    0.4%    0.1%    0.1%    0.0%    0.0%
+  WI              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  WV              0.2%       0.1%       0.1%        0.2%       0.2%    0.1%    0.1%    0.0%    0.1%    0.3%
+  WY              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+
+
+
+
+CFSR Round 4 Statewide Data Indicators Workbook, March 2026                                                   41
+ 10. Missing number of placement settings (Limit: >5%)
+  State          2021A      2021B      2022A       2022B      2023A   2023B   2024A   2024B   2025A   2025B
+  AK              0.0%       0.0%       0.1%        0.1%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  AL              0.6%       0.7%       0.7%        0.7%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  AR              0.1%       0.1%       0.0%        0.0%       0.1%    0.0%    0.0%    0.0%    0.0%    0.0%
+  AZ              1.1%       1.6%       1.6%        1.1%       1.3%    1.0%    1.3%    1.0%    0.5%    0.6%
+  CA              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  CO              7.2%       6.5%       7.6%        6.7%       2.6%    2.8%    2.5%    1.8%    1.3%    2.6%
+  CT              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  DC              0.1%       0.3%       0.0%        0.2%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  DE              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  FL              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  GA              0.1%       0.1%       0.0%        0.1%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  HI              1.0%       0.9%       1.4%        0.5%       0.1%    0.2%    0.3%    0.4%    0.5%    0.1%
+  IA              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  ID              0.0%       0.0%       0.1%        0.0%       0.1%    0.3%    0.0%    0.0%    0.2%    0.1%
+  IL              0.2%       0.2%       0.2%        0.2%       0.0%    0.0%    0.0%    0.0%    0.0%    0.1%
+  IN              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  KS              0.1%       0.1%       0.1%        0.1%       0.2%    0.0%    0.0%    0.0%    0.0%    0.0%
+  KY              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  LA              0.1%       0.1%       0.2%        0.3%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  MA              0.2%       0.2%       0.2%        0.2%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  MD              1.6%       1.8%       1.8%        1.2%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  ME              0.1%       0.4%       2.1%        0.7%       0.2%    0.2%    0.4%    0.4%    0.1%    0.0%
+  MI              0.1%       0.1%       0.1%        0.2%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  MN              0.1%       0.1%       0.1%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  MO              0.0%       0.0%       0.0%        0.0%       0.3%    0.3%    0.3%    0.4%    0.4%    0.2%
+  MS              0.3%       0.4%       0.6%        0.3%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  MT              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  NC              0.0%       0.3%       0.6%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  ND              0.9%       0.8%       0.6%        0.4%       0.0%    0.0%    0.0%    0.1%    0.1%    0.0%
+  NE              0.1%       0.1%       0.1%        0.1%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  NH              0.1%       0.0%       0.0%        0.1%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  NJ              0.2%       0.2%       0.2%        0.3%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  NM              0.0%       0.1%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+CFSR Round 4 Statewide Data Indicators Workbook, March 2026                                                   42
+  State          2021A      2021B      2022A       2022B      2023A   2023B   2024A   2024B   2025A   2025B
+  NV              1.0%       0.7%       0.6%        1.0%       0.2%    0.1%    0.1%    0.0%    0.0%    0.0%
+  NY              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  OH              0.1%       0.1%       0.1%        0.1%       0.1%    0.1%    0.1%    0.1%    0.1%    0.1%
+  OK              0.1%       0.1%       0.1%        0.1%       0.0%    0.0%    0.0%    0.1%    0.1%    0.1%
+  OR              0.1%       0.1%       0.2%        0.2%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  PA              0.1%       0.1%       0.1%        0.1%       1.1%    0.7%    0.5%    0.6%    0.3%    0.4%
+  PR              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  RI              0.0%       0.2%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  SC              0.1%       0.1%       0.0%        0.1%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  SD              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  TN              0.3%       0.3%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  TX              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  UT              1.1%       1.5%       1.1%        1.1%       0.0%    0.0%    0.0%    0.2%    0.0%    0.0%
+  VA              0.1%       0.1%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  VT              0.0%       0.0%       0.0%        0.0%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  WA              0.1%       0.0%       0.2%        0.1%       0.0%    0.0%    0.0%    0.0%    8.0%    7.2%
+  WI              0.5%       0.4%       0.5%        0.5%       0.0%    0.0%    0.0%    0.0%    0.0%    0.0%
+  WV              0.0%       0.0%       0.0%        0.0%       0.1%    0.1%    0.1%    0.1%    0.1%    0.2%
+  WY              0.0%       0.0%       0.1%        0.2%       1.3%    1.2%    9.6%   15.1%   20.5%   16.3%
+
+
+
+
+CFSR Round 4 Statewide Data Indicators Workbook, March 2026                                                   43
+ 11. Percentage of children on 1st removal (Limit: >95%)
+  State          2021A      2021B      2022A       2022B      2023A   2023B   2024A   2024B   2025A   2025B
+  AK             81.5%      80.9%      79.9%       78.8%      77.5%   78.4%   78.5%   78.8%   79.3%   80.1%
+  AL             82.7%      82.4%      82.6%       83.3%      83.8%   84.1%   83.7%   84.0%   84.8%   85.0%
+  AR             83.6%      83.6%      84.6%       84.5%      84.3%   83.7%   82.4%   82.2%   83.0%   82.7%
+  AZ             79.5%      79.8%      79.9%       79.9%      80.1%   79.8%   79.6%   78.9%   78.2%   77.2%
+  CA             79.0%      79.1%      79.3%       79.1%      79.4%   79.0%   78.6%   78.4%   78.1%   78.1%
+  CO             73.1%      73.3%      72.6%       71.5%      71.5%   71.0%   70.8%   70.3%   71.9%   73.2%
+  CT             85.4%      84.8%      85.0%       85.1%      84.1%   84.9%   85.5%   85.2%   85.0%   83.4%
+  DC             79.1%      77.8%      78.7%       78.3%      79.9%   78.8%   80.4%   84.1%   84.1%   83.7%
+  DE             87.2%      86.8%      87.3%       89.1%      89.1%   89.7%   88.9%   87.2%   86.5%   86.1%
+  FL             80.4%      80.5%      80.7%       80.6%      80.2%   80.3%   80.1%   79.9%   79.7%   79.5%
+  GA             83.5%      83.8%      84.1%       84.1%      86.3%   86.1%   86.1%   86.3%   85.9%   86.2%
+  HI             78.6%      78.7%      77.3%       75.7%      74.6%   73.8%   72.2%   69.7%   69.0%   69.2%
+  IA             80.2%      79.2%      79.5%       79.7%      72.7%   73.5%   74.9%   75.3%   76.1%   77.6%
+  ID             84.8%      84.2%      83.8%       83.1%      83.3%   82.0%   82.4%   82.7%   82.3%   82.8%
+  IL             89.3%      89.0%      88.3%       87.8%      88.5%   88.0%   87.8%   87.5%   86.9%   86.8%
+  IN             78.7%      78.4%      78.4%       77.6%      77.4%   77.2%   77.7%   78.1%   79.0%   78.9%
+  KS             80.0%      80.0%      79.8%       79.8%      79.1%   78.9%   79.1%   79.1%   78.6%   78.4%
+  KY             75.1%      76.2%      76.0%       76.4%      76.9%   75.6%   75.4%   75.9%   76.8%   77.8%
+  LA             80.6%      82.7%      83.4%       83.6%      83.7%   84.0%   83.3%   83.1%   83.7%   84.2%
+  MA             74.3%      73.4%      73.2%       73.5%      73.3%   73.5%   73.8%   74.4%   74.4%   74.1%
+  MD             78.5%      79.1%      79.4%       80.4%      79.5%   79.4%   79.5%   80.3%   81.0%   81.7%
+  ME             85.0%      85.6%      85.0%       84.2%      84.3%   85.3%   86.4%   87.1%   83.9%   84.2%
+  MI             83.7%      83.6%      83.7%       83.8%      84.9%   85.1%   85.0%   85.2%   85.4%   85.6%
+  MN             70.0%      69.5%      69.2%       69.1%      68.6%   70.2%   71.0%   70.9%   71.2%   71.9%
+  MO             83.5%      83.5%      83.4%       83.5%      82.5%   82.5%   82.2%   81.7%   82.0%   82.3%
+  MS             83.1%      82.8%      81.5%       82.4%      82.9%   83.5%   84.3%   84.6%   84.6%   84.2%
+  MT             74.4%      74.3%      72.8%       71.9%      72.6%   72.1%   71.0%   71.0%   71.6%   70.9%
+  NC             87.0%      87.8%      88.0%       90.3%      90.5%   90.1%   90.1%   91.8%   91.9%   91.6%
+  ND             77.8%      79.4%      79.8%       79.0%      77.9%   78.4%   77.2%   78.0%   76.7%   77.7%
+  NE             78.2%      77.8%      78.8%       79.2%      79.4%   80.6%   80.7%   82.3%   82.7%   81.7%
+  NH             79.3%      78.9%      77.6%       79.8%      80.1%   78.3%   77.3%   76.0%   74.7%   73.5%
+  NJ             75.6%      76.9%      77.2%       76.3%      77.0%   77.7%   78.6%   79.0%   79.2%   79.2%
+  NM             78.0%      77.7%      77.5%       78.5%      77.0%   76.0%   77.8%   77.3%   77.3%   78.4%
+CFSR Round 4 Statewide Data Indicators Workbook, March 2026                                                   44
+  State          2021A      2021B      2022A       2022B      2023A   2023B   2024A   2024B   2025A   2025B
+  NV             82.9%      83.2%      83.5%       83.6%      84.7%   84.1%   83.5%   83.2%   83.3%   83.1%
+  NY             79.2%      79.4%      79.6%       79.6%      79.1%   79.2%   79.3%   79.5%   79.0%   78.9%
+  OH             77.8%      77.6%      77.8%       77.8%      76.2%   76.0%   75.8%   75.5%   75.2%   75.0%
+  OK             87.4%      87.6%      87.7%       88.0%      87.7%   87.6%   87.3%   87.1%   87.0%   87.1%
+  OR             76.2%      76.4%      76.7%       76.8%      77.4%   77.6%   77.5%   77.1%   77.7%   78.4%
+  PA             79.9%      80.2%      79.5%       79.9%      80.4%   98.1%   98.3%   98.4%   98.5%   98.2%
+  PR             91.6%      92.2%      91.7%       91.5%      95.8%   96.5%   96.2%   95.8%   95.6%   94.7%
+  RI             80.0%      79.8%      80.0%       79.5%      78.6%   78.8%   78.5%   79.0%   78.4%   77.6%
+  SC             78.1%      78.1%      78.4%       78.7%      79.2%   79.4%   80.1%   80.1%   80.0%   79.7%
+  SD             74.2%      72.2%      72.5%       71.7%      74.0%   73.6%   75.2%   75.9%   76.2%   76.1%
+  TN             83.4%      82.0%      81.8%       82.2%      81.7%   81.7%   81.5%   82.0%   82.1%   83.9%
+  TX             86.1%      86.3%      86.3%       86.0%      84.2%   84.1%   84.0%   84.8%   85.2%   86.0%
+  UT             83.0%      82.1%      82.4%       82.8%      83.1%   81.3%   81.6%   81.9%   81.4%   81.3%
+  VA             89.1%      89.0%      89.1%       89.0%      88.8%   88.7%   88.5%   88.9%   89.2%   89.0%
+  VT             73.6%      73.6%      72.5%       71.8%      70.9%   76.6%   76.7%   76.4%   75.7%   76.0%
+  WA             81.5%      81.5%      81.2%       81.0%      80.9%   80.1%   79.4%   78.5%   79.4%   79.2%
+  WI             77.9%      78.4%      78.3%       79.0%      79.0%   78.8%   79.0%   78.9%   79.0%   78.4%
+  WV             85.7%      86.0%      85.1%       84.3%      85.7%   86.7%   86.8%   86.7%   86.3%   85.1%
+  WY             69.0%      69.5%      68.8%       69.3%      68.4%   67.9%   68.5%   97.9%   97.5%   68.8%
+
+
+
+
+CFSR Round 4 Statewide Data Indicators Workbook, March 2026                                                   45
+NCANDS Data Quality, by Data Period
+Values in red indicate data quality performance exceeds the data quality limit. A "DQ" in red identifies
+when performance on the indicator was not calculated for states that exceeded one or more limits on
+the data quality (DQ) checks done for the indicator, or had missing AFCARS and/or NCANDS
+submission(s).
+
+1. Child IDs for victims match across years (Limit: <1%)
+ State                     FY 2021-22          FY 2022-23          FY 2023-24
+ AK                              9.4%               10.1%               10.6%
+ AL                              4.7%                4.9%                4.7%
+ AR                              4.6%                3.7%                3.8%
+ AZ                              3.5%                3.2%                4.1%
+ CA                              5.4%                5.1%                4.9%
+ CO                              7.2%                8.3%                6.7%
+ CT                              5.9%                6.4%                6.3%
+ DC                              9.4%               10.0%                7.3%
+ DE                              2.4%                2.2%                1.9%
+ FL                              5.1%                5.1%                4.4%
+ GA                              3.1%                3.6%                3.9%
+ HI                              3.2%                3.1%                4.2%
+ IA                             11.2%               10.6%                9.9%
+ ID                              3.9%                3.8%                4.4%
+ IL                              9.8%               10.5%               10.9%
+ IN                              6.6%                6.7%                7.5%
+ KS                              1.9%                3.4%                3.7%
+ KY                              6.3%                8.1%                8.8%
+ LA                              4.5%                5.6%                4.7%
+ MA                             13.2%               13.4%               12.4%
+ MD                             10.3%               17.3%                6.7%
+ ME                              0.9%               10.0%               10.1%
+ MI                              8.7%                8.8%                9.0%
+ MN                              5.2%                5.5%                5.4%
+ MO                              2.1%                2.5%                3.6%
+ MS                              8.4%                8.4%                8.7%
+ MT                              9.9%                9.6%                9.8%
+ NC                              8.2%                9.5%                9.7%
+ ND                              4.4%                2.6%                4.0%
+ NE                              5.0%                4.9%                5.5%
+ NH                              3.8%                4.7%                5.0%
+ NJ                              3.4%                3.4%                3.1%
+ NM                              9.7%               10.6%               10.9%
+ NV                              6.7%                7.3%                6.5%
+ NY                             13.4%               12.8%               12.7%
+ OH                              6.5%                6.6%                6.1%
+ OK                              6.4%                6.3%                6.5%
+ OR                              9.4%                9.7%               10.0%
+ PA                              1.7%                1.8%                2.0%
+
+CFSR Round 4 Statewide Data Indicators Workbook, March 2026                                          46
+ State                     FY 2021-22         FY 2022-23      FY 2023-24
+ PR                              1.8%               1.7%            2.2%
+ RI                              7.0%               6.7%            7.9%
+ SC                              8.2%               7.6%            7.6%
+ SD                              7.8%               8.0%            7.6%
+ TN                              2.4%               2.0%            2.6%
+ TX                              4.9%               5.2%            5.3%
+ UT                              9.0%               8.5%            8.4%
+ VA                              2.7%               3.0%            2.5%
+ VT                              3.8%               4.2%            3.2%
+ WA                              4.3%               4.5%            5.1%
+ WI                              2.7%               2.8%            2.4%
+ WV                              3.1%               1.1%            3.3%
+ WY                              2.8%               4.2%            3.3%
+
+
+2. Child IDs for victims match across years, but dates of birth/age
+and sex do not (Limit: >5%)
+ State                     FY 2021-22         FY 2022-23      FY 2023-24
+ AK                              1.2%               0.8%            0.8%
+ AL                              0.4%               0.5%            0.4%
+ AR                              0.0%               1.2%            0.0%
+ AZ                              0.3%               0.0%            0.4%
+ CA                              0.4%               0.6%            0.6%
+ CO                              0.4%               0.1%            0.6%
+ CT                              0.0%               0.0%            0.9%
+ DC                              0.7%               0.6%            0.0%
+ DE                              0.0%               0.0%            0.0%
+ FL                              0.6%               0.5%            0.8%
+ GA                              1.0%               0.5%            0.5%
+ HI                              0.0%               0.0%            0.0%
+ IA                              0.5%               0.1%            0.3%
+ ID                              1.1%               0.0%            0.0%
+ IL                              0.5%               0.6%            0.4%
+ IN                              0.6%               0.6%            0.4%
+ KS                              0.0%               1.6%            0.0%
+ KY                              0.9%               0.4%            0.5%
+ LA                              0.7%               1.4%            1.4%
+ MA                              0.1%               0.0%            0.1%
+ MD                              0.3%               0.1%            0.2%
+ ME                              0.0%               0.3%            0.5%
+ MI                              0.0%               0.2%            0.2%
+ MN                              0.3%               0.0%            0.0%
+ MO                              2.2%               1.0%            0.0%
+ MS                              0.6%               0.5%            0.5%
+ MT                              0.3%               0.0%            0.0%
+ NC                              0.8%               1.1%            0.9%
+ ND                              0.0%               0.0%            0.0%
+CFSR Round 4 Statewide Data Indicators Workbook, March 2026                47
+ State                     FY 2021-22         FY 2022-23           FY 2023-24
+ NE                              0.0%               0.0%                 0.0%
+ NH                              0.0%               0.0%                 0.0%
+ NJ                              0.0%               0.9%                 0.0%
+ NM                              0.2%               0.5%                 0.5%
+ NV                              0.0%               0.5%                 0.7%
+ NY                              0.3%               0.3%                 0.3%
+ OH                              0.3%               0.7%                 0.4%
+ OK                              1.9%               1.5%                 0.7%
+ OR                              0.5%               0.0%                 0.3%
+ PA                              2.5%               0.0%                 0.0%
+ PR                              1.1%               5.4%                 0.0%
+ RI                              1.7%               2.5%                 0.0%
+ SC                              1.0%               0.9%                 1.2%
+ SD                              0.0%               0.0%                 0.0%
+ TN                              0.0%               0.7%                 0.5%
+ TX                              1.9%               1.6%                 1.7%
+ UT                              0.4%               0.1%                 0.4%
+ VA                              0.0%               0.7%                 0.9%
+ VT                              6.7%               0.0%                 0.0%
+ WA                              0.0%               0.0%                 0.6%
+ WI                              0.9%               0.0%                 0.0%
+ WV                              0.0%               0.0%                 0.6%
+ WY                              0.0%               0.0%                 0.0%
+
+
+3. Missing age for victims (Limit: >5%)
+ State                   FY 2021           FY 2022            FY 2023       FY 2024
+ AK                          0.3%              0.2%               0.3%          0.3%
+ AL                          0.2%              0.3%               0.2%          0.2%
+ AR                          0.5%              0.4%               0.7%          0.5%
+ AZ                          0.0%              0.0%               0.0%          0.0%
+ CA                          0.0%              0.0%               0.0%          0.0%
+ CO                          0.0%              0.0%               0.0%          0.0%
+ CT                          0.2%              0.3%               0.3%          0.2%
+ DC                          0.0%              0.0%               0.0%          0.0%
+ DE                          0.0%              0.0%               0.0%          0.0%
+ FL                          0.1%              0.1%               0.1%          0.2%
+ GA                          0.0%              0.0%               0.0%          0.0%
+ HI                          0.0%              0.2%               0.2%          0.0%
+ IA                          0.1%              0.1%               0.0%          0.0%
+ ID                          0.1%              0.1%               0.0%          0.0%
+ IL                          0.0%              0.1%               0.0%          0.0%
+ IN                          0.0%              0.0%               0.0%          0.0%
+ KS                          0.0%              0.0%               0.0%          0.0%
+ KY                          0.0%              0.0%               0.0%          0.0%
+ LA                          0.0%              0.0%               0.0%          0.0%
+ MA                          0.0%              0.0%               0.0%          0.1%
+CFSR Round 4 Statewide Data Indicators Workbook, March 2026                            48
+ State                   FY 2021           FY 2022            FY 2023    FY 2024
+ MD                          0.5%              0.2%               0.1%       0.1%
+ ME                          0.0%              0.0%               0.0%       0.4%
+ MI                          0.0%              0.0%               0.0%       0.1%
+ MN                          0.0%              0.0%               0.0%       0.0%
+ MO                          0.0%              0.0%               0.0%       0.0%
+ MS                          0.0%              0.0%               0.0%       0.0%
+ MT                          0.5%              0.1%               0.4%       0.1%
+ NC                          0.1%              0.1%               0.1%       0.1%
+ ND                          0.1%              0.3%               0.0%       0.3%
+ NE                          0.0%              0.0%               0.3%       0.1%
+ NH                          0.0%              0.0%               0.1%       0.0%
+ NJ                          0.1%              0.1%               0.1%       0.2%
+ NM                          0.8%              0.9%               0.9%       0.9%
+ NV                          0.0%              0.0%               0.0%       0.0%
+ NY                          0.0%              0.0%               0.0%       0.0%
+ OH                          0.2%              0.2%               0.1%       0.1%
+ OK                          0.1%              0.3%               0.1%       0.1%
+ OR                          0.1%              0.1%               0.1%       0.2%
+ PA                          0.0%              0.0%               0.0%       0.0%
+ PR                          0.0%              0.2%               0.2%       0.1%
+ RI                          0.2%              0.2%               0.3%       0.1%
+ SC                          0.0%              0.0%               0.0%       0.0%
+ SD                          0.2%              0.3%               0.2%       0.2%
+ TN                          0.6%              0.6%               0.5%       0.4%
+ TX                          0.0%              0.0%               0.0%       0.0%
+ UT                          0.0%              0.0%               0.0%       0.0%
+ VA                          1.4%              2.3%               2.8%       3.5%
+ VT                          0.0%              0.0%               0.0%       0.0%
+ WA                          0.0%              0.0%               0.1%       0.1%
+ WI                          0.0%              0.0%               0.0%       0.0%
+ WV                          0.1%              0.0%               0.1%       0.2%
+ WY                          0.1%              0.1%               0.0%       0.1%
+
+
+4. Some victims have AFCARS IDs in Child File (Limit: <1%)
+ State                   FY 2021           FY 2022            FY 2023    FY 2024
+ AK                       100.0%            100.0%             100.0%     100.0%
+ AL                       100.0%            100.0%             100.0%     100.0%
+ AR                       100.0%            100.0%             100.0%     100.0%
+ AZ                       100.0%              99.9%            100.0%     100.0%
+ CA                       100.0%            100.0%             100.0%     100.0%
+ CO                       100.0%              99.8%              99.8%      99.9%
+ CT                       100.0%            100.0%             100.0%     100.0%
+ DC                       100.0%            100.0%             100.0%     100.0%
+ DE                       100.0%            100.0%             100.0%     100.0%
+ FL                       100.0%            100.0%             100.0%     100.0%
+ GA                       100.0%            100.0%             100.0%     100.0%
+CFSR Round 4 Statewide Data Indicators Workbook, March 2026                         49
+ State                   FY 2021           FY 2022            FY 2023    FY 2024
+ HI                       100.0%            100.0%             100.0%     100.0%
+ IA                       100.0%            100.0%             100.0%     100.0%
+ ID                         99.9%             99.8%            100.0%     100.0%
+ IL                         56.0%             56.1%              56.3%      55.7%
+ IN                       100.0%            100.0%             100.0%     100.0%
+ KS                       100.0%            100.0%             100.0%     100.0%
+ KY                       100.0%            100.0%             100.0%     100.0%
+ LA                       100.0%            100.0%             100.0%     100.0%
+ MA                       100.0%            100.0%             100.0%     100.0%
+ MD                       100.0%            100.0%             100.0%     100.0%
+ ME                       100.0%            100.0%             100.0%     100.0%
+ MI                       100.0%            100.0%             100.0%     100.0%
+ MN                       100.0%            100.0%             100.0%     100.0%
+ MO                       100.0%            100.0%             100.0%     100.0%
+ MS                       100.0%            100.0%             100.0%     100.0%
+ MT                       100.0%            100.0%             100.0%     100.0%
+ NC                       100.0%            100.0%             100.0%     100.0%
+ ND                       100.0%            100.0%             100.0%     100.0%
+ NE                       100.0%            100.0%             100.0%     100.0%
+ NH                       100.0%            100.0%             100.0%     100.0%
+ NJ                       100.0%            100.0%             100.0%     100.0%
+ NM                       100.0%            100.0%             100.0%     100.0%
+ NV                       100.0%            100.0%             100.0%     100.0%
+ NY                         99.8%             99.8%              99.7%      99.8%
+ OH                       100.0%            100.0%             100.0%     100.0%
+ OK                       100.0%            100.0%             100.0%     100.0%
+ OR                       100.0%            100.0%             100.0%     100.0%
+ PA                         60.0%             60.8%              60.2%      61.1%
+ PR                       100.0%            100.0%             100.0%     100.0%
+ RI                       100.0%            100.0%             100.0%     100.0%
+ SC                       100.0%            100.0%             100.0%     100.0%
+ SD                       100.0%            100.0%             100.0%     100.0%
+ TN                       100.0%            100.0%             100.0%     100.0%
+ TX                       100.0%            100.0%             100.0%     100.0%
+ UT                       100.0%            100.0%             100.0%     100.0%
+ VA                       100.0%            100.0%             100.0%     100.0%
+ VT                         36.9%             33.9%              30.4%      27.3%
+ WA                       100.0%            100.0%             100.0%     100.0%
+ WI                       100.0%            100.0%             100.0%     100.0%
+ WV                       100.0%            100.0%             100.0%     100.0%
+ WY                       100.0%            100.0%             100.0%     100.0%
+
+
+5. Some victims with AFCARS IDs should match IDs in AFCARS files (Limit: >0)
+ State                   FY 2021           FY 2022            FY 2023    FY 2024
+ AK                             Y                 Y                  Y          Y
+ AL                             Y                 Y                  Y          Y
+CFSR Round 4 Statewide Data Indicators Workbook, March 2026                         50
+ State                   FY 2021           FY 2022            FY 2023    FY 2024
+ AR                             Y                 Y                  Y          Y
+ AZ                             Y                 Y                  Y          Y
+ CA                             Y                 Y                  Y          Y
+ CO                             Y                 Y                  Y          Y
+ CT                             Y                 Y                  Y          Y
+ DC                             Y                 Y                  Y          Y
+ DE                             Y                 Y                  Y          Y
+ FL                             Y                 Y                  Y          Y
+ GA                             Y                 Y                  Y          Y
+ HI                             Y                 Y                  Y          Y
+ IA                             Y                 Y                  Y          Y
+ ID                             Y                 Y                  Y          Y
+ IL                             Y                 Y                  Y          Y
+ IN                             Y                 Y                  Y          Y
+ KS                             Y                 Y                  Y          Y
+ KY                             Y                 Y                  Y          Y
+ LA                             Y                 Y                  Y          Y
+ MA                             Y                 Y                  Y          Y
+ MD                             Y                 Y                  Y          Y
+ ME                             Y                 Y                  Y          Y
+ MI                             Y                 Y                  Y          Y
+ MN                             Y                 Y                  Y          Y
+ MO                             Y                 Y                  Y          Y
+ MS                             Y                 Y                  Y          Y
+ MT                             Y                 Y                  Y          Y
+ NC                             Y                 Y                  Y          Y
+ ND                             Y                 Y                  Y          Y
+ NE                             Y                 Y                  Y          Y
+ NH                             Y                 Y                  Y          Y
+ NJ                             Y                 Y                  Y          Y
+ NM                             Y                 Y                  Y          Y
+ NV                             Y                 Y                  Y          Y
+ NY                             Y                 Y                  Y          Y
+ OH                             Y                 Y                  Y          Y
+ OK                             Y                 Y                  Y          Y
+ OR                             Y                 Y                  Y          Y
+ PA                             Y                 Y                  Y          Y
+ PR                             Y                 Y                  Y          Y
+ RI                             Y                 Y                  Y          Y
+ SC                             Y                 Y                  Y          Y
+ SD                             Y                 Y                  Y          Y
+ TN                             Y                 Y                  Y          Y
+ TX                             Y                 Y                  Y          Y
+ UT                             Y                 Y                  Y          Y
+ VA                             Y                 Y                  Y          Y
+ VT                             Y                 Y                  Y          Y
+ WA                             Y                 Y                  Y          Y
+
+CFSR Round 4 Statewide Data Indicators Workbook, March 2026                         51
+ State                   FY 2021           FY 2022            FY 2023    FY 2024
+ WI                             Y                 Y                  Y          Y
+ WV                             Y                 Y                  Y          Y
+ WY                             Y                 Y                  Y          Y
+
+
+
+
+CFSR Round 4 Statewide Data Indicators Workbook, March 2026                         52
+
