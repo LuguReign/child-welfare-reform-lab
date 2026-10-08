@@ -15,6 +15,6 @@ Verified October 8, 2026 on the delivered version.
 
 ## Review still needed
 
-A full browser rendering and accessibility review was not completed: a compatible local browser was unavailable and its download failed. The JavaScript test uses a minimal mocked DOM and does not validate layout, visual appearance, browser compatibility or assistive technology behavior. Responsive CSS and accessible chart tables are included, but those design features should be checked in a browser before portfolio publication.
+The live GitHub Pages dashboard was subsequently checked in Chrome on October 8, 2026. All seven indicator selections, four synthetic jurisdiction selections, four section tabs and the five reconciliation exceptions were verified in the rendered page. The desktop dashboard was visually inspected; a screenshot is retained in `docs/assets/dashboard-public.jpg`. A formal accessibility audit and mobile/cross-browser layout review remain outstanding.
 
 No external analytic peer reviewer, court monitor or agency has approved this project. No production source microdata or legal compliance assessment is included.

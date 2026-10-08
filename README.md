@@ -4,6 +4,8 @@ A runnable applied-research portfolio project tailored to the **Action Research 
 
 **Live dashboard:** https://lugureign.github.io/child-welfare-reform-lab/
 
+![Published dashboard](docs/assets/dashboard-public.jpg)
+
 **Start here:** open `output/dashboard.html` in a modern browser. It runs entirely offline. Read `docs/executive_memo.md` for findings and `docs/measure_specification.md` for eligibility rules.
 
 ## Evidence layers
